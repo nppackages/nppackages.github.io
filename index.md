@@ -1,41 +1,34 @@
 # Nonparametric Methods Software Packages
 
+This work was supported in part by the National Science Foundation through grants [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561), [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931), [SES-1459967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967), [SES-1947662](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662), [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805), and [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432).
 
+## Software available in R and Stata
 
+- [nprobust](https://github.com/rdpackages/nprobust): estimation and inference using kernel density and local polynomial regression methods.
 
+- [lpdensity](https://github.com/rdpackages/lpdensity): estimation and inference using local polynomial distribution/density regression methods.
 
-You can use the [editor on GitHub](https://github.com/nppackages/nppackages.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- [binsreg](https://github.com/rdpackages/binsreg): partition selection, point estimation, pointwise and uniform inference, and graphical procedures using binscatter methods.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Software available in R
 
-### Markdown
+- [lspartition](https://github.com/rdpackages/lspartition): estimation and inference using partitioning-based least squares methods, including B-splines, wavelet and piecewise polynomial regression estimators.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contributors
 
-```markdown
-Syntax highlighted code block
+- [Sebastian Calonico](https://sites.google.com/site/scalonico), Columbia University.
 
-# Header 1
-## Header 2
-### Header 3
+- [Matias D. Cattaneo](https://cattaneo.princeton.edu), Princeton University.
 
-- Bulleted
-- List
+- [Richard K. Crump](https://www.newyorkfed.org/research/economists/crump), Federal Reserve Bank of New York.
 
-1. Numbered
-2. List
+- [Max H. Farrell](https://maxhfarrell.com/), University of Chicago.
 
-**Bold** and _Italic_ and `Code` text
+- [Yingjie Feng](https://sites.google.com/site/yingjieum), Princeton University
 
-[Link](url) and ![Image](src)
-```
+- [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley and CREATES.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nppackages/nppackages.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<br>
+<br>
