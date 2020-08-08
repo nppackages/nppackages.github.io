@@ -1,3 +1,3 @@
 # nppackages.github.io
 
-NP Packages website
+NP packages website
