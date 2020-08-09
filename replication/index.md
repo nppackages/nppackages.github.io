@@ -6,22 +6,22 @@ This work was supported in part by the National Science Foundation through grant
 
 ## Research Articles and Applications
 
-- Cattaneo, Crump, Farrell and Feng (2020): [On Binscatter](https://github.com/rdpackages-replication/CCFF-2020-wp).<br>
+- Cattaneo, Crump, Farrell and Feng (2020): [On Binscatter](https://github.com/nppackages-replication/CCFF-2020-wp).<br>
 Working paper.
 
-- Cattaneo, Farrell and Feng (2020): [Large Sample Properties of Partitioning-Based Series Estimators](https://github.com/rdpackages-replication/CFF-2020-AOS).<br>
+- Cattaneo, Farrell and Feng (2020): [Large Sample Properties of Partitioning-Based Series Estimators](https://github.com/nppackages-replication/CFF-2020-AOS).<br>
 _Annals of Statistics_ 48(3): 1718-1741.
 
-- Cattaneo, Jansson and Ma (2020): [Local Regression Distribution Estimators](https://github.com/rdpackages-replication/CJM_2020_JOE).<br>
+- Cattaneo, Jansson and Ma (2020): [Local Regression Distribution Estimators](https://github.com/nppackages-replication/CJM_2020_JOE).<br>
 Working paper.
 
-- Cattaneo, Jansson and Ma (2020): [Simple Local Polynomial Density Estimators](https://github.com/rdpackages-replication/CJM_2020_JASA).<br>
+- Cattaneo, Jansson and Ma (2020): [Simple Local Polynomial Density Estimators](https://github.com/nppackages-replication/CJM_2020_JASA).<br>
 _Journal of the American Statistical Association_.
 
-- Cattaneo, Jansson and Ma (2020): [lpdensity: Local Polynomial Density Estimation and Inference](https://github.com/rdpackages-replication/CJM_2020_JSS).<br>
+- Cattaneo, Jansson and Ma (2020): [lpdensity: Local Polynomial Density Estimation and Inference](https://github.com/nppackages-replication/CJM_2020_JSS).<br>
 Working paper.
 
-- Calonico, Cattaneo and Farrell (2019): [nprobust: Nonparametric Kernel-Based Estimation and Robust Bias-Corrected Inference](https://github.com/rdpackages-replication/CCF_2019_JSS).<br>
+- Calonico, Cattaneo and Farrell (2019): [nprobust: Nonparametric Kernel-Based Estimation and Robust Bias-Corrected Inference](https://github.com/nppackages-replication/CCF_2019_JSS).<br>
 _Journal of Statistical Software_ 91(8): 1-33.
 
 <br><br>
