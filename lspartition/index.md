@@ -11,7 +11,7 @@ install.packages('lspartition')
 ```
 - Help: [R Manual](https://cran.r-project.org/web/packages/lspartition/lspartition.pdf), [CRAN repository](https://cran.r-project.org/package=lspartition).
 
-- Replication: [R-script](R/lspartition_illustration.r), [rdplot illustration](R/rdplot_illustration.R), [data](R/bikeSharing.csv).
+- Replication: [R-script](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/lspartition_illustration.r), [rdplot illustration](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/rdplot_illustration.R), [data](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/bikeSharing.csv).
 
 ## References
 

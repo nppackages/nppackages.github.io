@@ -29,9 +29,9 @@ To install/update in Stata type:
 net install binsreg, from(https://raw.githubusercontent.com/nppackages/binsreg/master/stata) replace
 ```
 
-- Help: [binsreg](stata/binsreg.pdf), [binsregtest](stata/binsregtest.pdf), [binsregselect](stata/binsregselect.pdf).
+- Help: [binsreg](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/binsreg.pdf), [binsregtest](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/binsregtest.pdf), [binsregselect](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/binsregselect.pdf).
 
-- Replication files: [do-file](stata/binsreg_illustration.do), [data](stata/binsreg_simdata.dta), [speed test](stata/binsreg_speedtest.do).
+- Replication files: [do-file](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/binsreg_illustration.do), [data](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/binsreg_simdata.dta), [speed test](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/binsreg_speedtest.do).
 
 ## R Implementation
 
