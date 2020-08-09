@@ -4,10 +4,6 @@ The `binsreg` package provides Stata and R implementations of binscatter methods
 
 This work was supported in part by the National Science Foundation through grants [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805) and [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432).
 
-## Website
-
-https://nppackages.github.io/binsreg
-
 ## Queries and Requests
 
 Please email: binsreg.package@gmail.com
@@ -53,11 +49,14 @@ install.packages('binsreg')
 
 ### Software and Implementation
 
-- Cattaneo, Crump, Farrell and Feng (2019): [Binscatter Regressions](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2019_Stata.pdf), working paper.
+- Cattaneo, Crump, Farrell and Feng (2019): [Binscatter Regressions](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2019_Stata.pdf).<br>
+Working paper.
 
 ### Technical and Methodological
 
-- Cattaneo, Crump, Farrell and Feng (2019): [On Binscatter](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2019_Binscatter.pdf), working paper. [Supplemental Appendix](references/Cattaneo-Crump-Farrell-Feng_2019_Binscatter--Supplemental.pdf).
+- Cattaneo, Crump, Farrell and Feng (2019): [On Binscatter](references/Cattaneo-Crump-Farrell-Feng_2019_Binscatter.pdf).<br>
+Working paper.<br>
+[Supplemental Appendix](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2019_Binscatter--Supplemental.pdf).
 
 <br><br>
 
