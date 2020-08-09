@@ -11,9 +11,9 @@ To install/update in Stata type:
 net install nprobust, from(https://raw.githubusercontent.com/nppackages/nprobust/master/stata) replace
 ```
 
-- Help: [kdrobust](stata/kdrobust.pdf), [kdbwselect](stata/kdbwselect.pdf), [lprobust](stata/lprobust.pdf), [lpbwselect](stata/lpbwselect.pdf).
+- Help: [kdrobust](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/kdrobust.pdf), [kdbwselect](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/kdbwselect.pdf), [lprobust](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/lprobust.pdf), [lpbwselect](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/lpbwselect.pdf).
 
-- Replication: [do-file](stata/nprobust_illustration.do), [nprobust_data](stata/nprobust_data.do).
+- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/nprobust_illustration.do), [nprobust_data](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/nprobust_data.do).
 
 ## R Implementation
 To install/update in R type:
@@ -23,7 +23,7 @@ install.packages('nprobust')
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/nprobust/nprobust.pdf), [CRAN repository](https://cran.r-project.org/package=nprobust).
 
-- Replication: [R-script](R/nprobust_illustration.r), [nprobust_data](R/nprobust_data.csv).
+- Replication: [R-script](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/nprobust_illustration.r), [nprobust_data](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/nprobust_data.csv).
 
 ## References
 
