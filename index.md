@@ -6,13 +6,13 @@ This work was supported in part by the National Science Foundation through grant
 
 ## Software available in R and Stata
 
-- [nprobust](https://github.com/rdpackages/nprobust): estimation and inference using kernel density and local polynomial regression methods.
-- [lpdensity](https://github.com/rdpackages/lpdensity): estimation and inference using local polynomial distribution/density regression methods.
-- [binsreg](https://github.com/rdpackages/binsreg): partition selection, point estimation, pointwise and uniform inference, and graphical procedures using binscatter methods.
+- [nprobust](https://github.com/nppackages/nprobust): estimation and inference using kernel density and local polynomial regression methods.
+- [lpdensity](https://github.com/nppackages/lpdensity): estimation and inference using local polynomial distribution/density regression methods.
+- [binsreg](https://github.com/nppackages/binsreg): partition selection, point estimation, pointwise and uniform inference, and graphical procedures using binscatter methods.
 
 ## Software available in R
 
-- [lspartition](https://github.com/rdpackages/lspartition): estimation and inference using partitioning-based least squares methods, including B-splines, wavelet and piecewise polynomial regression estimators.
+- [lspartition](https://github.com/nppackages/lspartition): estimation and inference using partitioning-based least squares methods, including B-splines, wavelet and piecewise polynomial regression estimators.
 
 ## Replication
 

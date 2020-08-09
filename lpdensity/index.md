@@ -29,17 +29,17 @@ install.packages('lpdensity')
 
 ### Software and Implementation
 
-- Cattaneo, Jansson and Ma (2020): [lpdensity: Local Polynomial Density Estimation and Inference](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JSS.pdf).<br>
+- Cattaneo, Jansson and Ma (2020): [lpdensity: Local Polynomial Density Estimation and Inference](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2020_JSS.pdf).<br>
 Working paper.
 
 ### Technical and Methodological
 
-- Cattaneo, Jansson and Ma (2020): [Simple Local Polynomial Density Estimators](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JASA.pdf).<br>
+- Cattaneo, Jansson and Ma (2020): [Simple Local Polynomial Density Estimators](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2020_JASA.pdf).<br>
 _Journal of the American Statistical Association_, forthcoming.<br>
-[Supplemental appendix](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JASA--Supplemental.pdf).
+[Supplemental appendix](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2020_JASA--Supplemental.pdf).
 
-- Cattaneo, Jansson and Ma (2020): [Local Regression Distribution Estimators](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JoE.pdf).<br>
+- Cattaneo, Jansson and Ma (2020): [Local Regression Distribution Estimators](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2020_JoE.pdf).<br>
 Working paper.<br>
-[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JoE--Supplemental.pdf).
+[Supplemental Appendix](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2020_JoE--Supplemental.pdf).
 
 <br><br>

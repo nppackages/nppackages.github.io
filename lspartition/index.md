@@ -17,17 +17,17 @@ install.packages('lspartition')
 
 ### Software and Implementation
 
-- Cattaneo, Farrell and Feng (2020): [lspartition: Partitioning-Based Least Squares Regression](https://rdpackages.github.io/references/Cattaneo-Farrell-Feng_2019_lspartition.pdf).<br>
+- Cattaneo, Farrell and Feng (2020): [lspartition: Partitioning-Based Least Squares Regression](https://nppackages.github.io/references/Cattaneo-Farrell-Feng_2019_lspartition.pdf).<br>
 _R Journal_, forthcoming.
 
 ### Technical and Methodological
 
-- Cattaneo and Farrell (2013): [Optimal Convergence Rates, Bahadur Representation, and Asymptotic Normality of Partitioning Estimators](https://rdpackages.github.io/references/Cattaneo-Farrell_2013_JoE.pdf).<br>
+- Cattaneo and Farrell (2013): [Optimal Convergence Rates, Bahadur Representation, and Asymptotic Normality of Partitioning Estimators](https://nppackages.github.io/references/Cattaneo-Farrell_2013_JoE.pdf).<br>
 _Journal of Econometrics_ 174(2): 127-143.<br>
-[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Farrell_2013_JoE--Supplemental.pdf).
+[Supplemental Appendix](https://nppackages.github.io/references/Cattaneo-Farrell_2013_JoE--Supplemental.pdf).
 
-- Cattaneo, Farrell and Feng (2020): [Large Sample Properties of Partitioning-Based Series Estimators](https://rdpackages.github.io/references/Cattaneo-Farrell-Feng_2020_AoS.pdf).<br>
+- Cattaneo, Farrell and Feng (2020): [Large Sample Properties of Partitioning-Based Series Estimators](https://nppackages.github.io/references/Cattaneo-Farrell-Feng_2020_AoS.pdf).<br>
 _Annals of Statistics_ 48(3): 1718-1741.<br>
-[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Farrell-Feng_2020_AoS--Supplemental.pdf).
+[Supplemental Appendix](https://nppackages.github.io/references/Cattaneo-Farrell-Feng_2020_AoS--Supplemental.pdf).
 
 <br><br>
