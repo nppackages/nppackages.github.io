@@ -1,9 +1,9 @@
 # Setup
-title       : RD Packages
-tagline     : 'RD Software Packages'
-description : 'Regression Discontinuity Designs Software Packages'
-keywords    : "regression discontinuity designs, program evaluation, causal inference, treatment effects, R, Stata"
-url         : https://rdpackages.github.io
+title       : NP Packages
+tagline     : 'NP Software Packages'
+description : 'Nonparametric Software Packages'
+keywords    : "nonparametric, semiparametric, smoothing, R, Stata"
+url         : https://nppackages.github.io
 baseurl     : ''
 paginate    : 5
 
