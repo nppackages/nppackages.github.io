@@ -18,10 +18,10 @@ Working paper.
 - Cattaneo, Jansson and Ma (2020): [Simple Local Polynomial Density Estimators](https://github.com/rdpackages-replication/CJM_2020_JASA).<br>
 _Journal of the American Statistical Association_.
 
-- Cattaneo, Jansson and Ma (2020): [nprobust: Nonparametric Kernel-Based Estimation and Robust Bias-Corrected Inference](https://github.com/rdpackages-replication/CJM_2020_JSS).<br>
+- Cattaneo, Jansson and Ma (2020): [lpdensity: Local Polynomial Density Estimation and Inference](https://github.com/rdpackages-replication/CJM_2020_JSS).<br>
 Working paper.
 
-- Calonico, Cattaneo and Farrell (2019): [](https://github.com/rdpackages-replication/CCF_2019_JSS).<br>
+- Calonico, Cattaneo and Farrell (2019): [nprobust: Nonparametric Kernel-Based Estimation and Robust Bias-Corrected Inference](https://github.com/rdpackages-replication/CCF_2019_JSS).<br>
 _Journal of Statistical Software_ 91(8): 1-33.
 
 <br><br>
