@@ -29,9 +29,9 @@ To install/update in Stata type:
 net install binsreg, from(https://raw.githubusercontent.com/nppackages/binsreg/master/stata) replace
 ```
 
-- Help: [binsreg](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/binsreg.pdf), [binsregtest](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/binsregtest.pdf), [binsregselect](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/binsregselect.pdf).
+- Help: [binsreg](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg.pdf), [binsregtest](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsregtest.pdf), [binsregselect](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsregselect.pdf).
 
-- Replication files: [do-file](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/binsreg_illustration.do), [data](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/binsreg_simdata.dta), [speed test](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/binsreg_speedtest.do).
+- Replication files: [do-file](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg_illustration.do), [data](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg_simdata.dta), [speed test](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg_speedtest.do).
 
 ## R Implementation
 
@@ -42,7 +42,7 @@ install.packages('binsreg')
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/binsreg/binsreg.pdf), [CRAN repository](https://cran.r-project.org/package=binsreg).
 
-- Replication: [R-script](R/binsreg_R_illustration.R), [data](R/binsreg_sim.csv).
+- Replication: [R-script](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_R_illustration.R), [data](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_sim.csv).
 
 
 ## References
