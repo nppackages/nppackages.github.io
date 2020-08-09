@@ -28,5 +28,4 @@ Replication files and illustration code are available in the [replication](https
 - [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley and CREATES.
 - [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
 
-<br>
-<br>
+<br><br>
