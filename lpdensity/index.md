@@ -27,7 +27,7 @@ install.packages('lpdensity')
 
 ## Repository
 
-For source code and related files, visit [`lpdensity` repository](https://github.com/rdpackages/lpdensity/).
+For source code and related files, visit [`lpdensity` repository](https://github.com/nppackages/lpdensity/).
 
 
 ## References

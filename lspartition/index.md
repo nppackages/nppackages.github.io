@@ -15,7 +15,7 @@ install.packages('lspartition')
 
 ## Repository
 
-For source code and related files, visit [`lspartition` repository](https://github.com/rdpackages/lspartition/).
+For source code and related files, visit [`lspartition` repository](https://github.com/nppackages/lspartition/).
 
 
 ## References

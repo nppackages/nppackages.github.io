@@ -27,7 +27,7 @@ install.packages('nprobust')
 
 ## Repository
 
-For source code and related files, visit [`nprobust` repository](https://github.com/rdpackages/nprobust/).
+For source code and related files, visit [`nprobust` repository](https://github.com/nppackages/nprobust/).
 
 
 ## References
