@@ -25,6 +25,11 @@ install.packages('lpdensity')
 
 - Replication: [R-script](https://raw.githubusercontent.com/nppackages/lpdensity/master/R/lpdensity_illustration.r).
 
+## Repository
+
+For source code and related files, visit [`lpdensity` repository](https://github.com/rdpackages/lpdensity/).
+
+
 ## References
 
 ### Software and Implementation

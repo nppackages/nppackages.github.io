@@ -25,6 +25,11 @@ install.packages('nprobust')
 
 - Replication: [R-script](https://raw.githubusercontent.com/nppackages/nprobust/master/R/nprobust_illustration.r), [nprobust_data](https://raw.githubusercontent.com/nppackages/nprobust/master/R/nprobust_data.csv).
 
+## Repository
+
+For source code and related files, visit [`nprobust` repository](https://github.com/rdpackages/nprobust/).
+
+
 ## References
 
 ### Software and Implementation

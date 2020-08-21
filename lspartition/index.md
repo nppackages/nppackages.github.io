@@ -13,6 +13,11 @@ install.packages('lspartition')
 
 - Replication: [R-script](https://raw.githubusercontent.com/nppackages/lspartition/master/R/lspartition_illustration.r), [rdplot illustration](https://raw.githubusercontent.com/nppackages/lspartition/master/R/rdplot_illustration.R), [data](https://raw.githubusercontent.com/nppackages/lspartition/master/R/bikeSharing.csv).
 
+## Repository
+
+For source code and related files, visit [`lspartition` repository](https://github.com/rdpackages/lspartition/).
+
+
 ## References
 
 ### Software and Implementation

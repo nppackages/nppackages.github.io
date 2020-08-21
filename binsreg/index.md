@@ -44,6 +44,10 @@ install.packages('binsreg')
 
 - Replication: [R-script](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_R_illustration.R), [data](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_sim.csv).
 
+## Repository
+
+For source code and related files, visit [`binsreg` repository](https://github.com/nppackages/binsreg/).
+
 
 ## References
 
