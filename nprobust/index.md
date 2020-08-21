@@ -45,6 +45,6 @@ _Journal of the American Statistical Association_ 113(522): 767-779.<br>
 
 - Calonico, Cattaneo and Farrell (2020): [Coverage Error Optimal Confidence Intervals for Local Polynomial Regression](https://nppackages.github.io/references/Calonico-Cattaneo-Farrell_2020_CEopt.pdf).<br>
 Working paper.<br>
-[Supplemental Appendix](https://nppackages.github.io/references/Calonico-Cattaneo-Farrell_2020_CEopt--Supplemental.pdf).
+[Supplemental Appendix](https://nppackages.github.io/references/Calonico-Cattaneo-Farrell_2020_CEopt--Supplement.pdf).
 
 <br><br>
