@@ -58,7 +58,7 @@ Working paper.
 
 ### Technical and Methodological
 
-- Cattaneo, Crump, Farrell and Feng (2019): [On Binscatter](references/Cattaneo-Crump-Farrell-Feng_2019_Binscatter.pdf).<br>
+- Cattaneo, Crump, Farrell and Feng (2019): [On Binscatter](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2019_Binscatter.pdf).<br>
 Working paper.<br>
 [Supplemental Appendix](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2019_Binscatter--Supplemental.pdf).
 
