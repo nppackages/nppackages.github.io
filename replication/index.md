@@ -16,7 +16,7 @@ _Annals of Statistics_ 48(3): 1718-1741.
 Working paper.
 
 - Cattaneo, Jansson and Ma (2020): [Simple Local Polynomial Density Estimators](https://github.com/nppackages-replication/CJM_2020_JASA).<br>
-_Journal of the American Statistical Association_.
+_Journal of the American Statistical Association_ 115(531): 1449-1455.
 
 - Cattaneo, Jansson and Ma (2020): [lpdensity: Local Polynomial Density Estimation and Inference](https://github.com/nppackages-replication/CJM_2020_JSS).<br>
 Working paper.
