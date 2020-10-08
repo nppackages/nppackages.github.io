@@ -22,8 +22,8 @@ For source code and related files, visit [`lspartition` repository](https://gith
 
 ### Software and Implementation
 
-- Cattaneo, Farrell and Feng (2020): [lspartition: Partitioning-Based Least Squares Regression](https://nppackages.github.io/references/Cattaneo-Farrell-Feng_2019_lspartition.pdf).<br>
-_R Journal_, forthcoming.
+- Cattaneo, Farrell and Feng (2020): [lspartition: Partitioning-Based Least Squares Regression](https://nppackages.github.io/references/Cattaneo-Farrell-Feng_2020_R.pdf).<br>
+_R Journal_ 12(1): 172-187.
 
 ### Technical and Methodological
 
