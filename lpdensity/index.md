@@ -35,7 +35,7 @@ For source code and related files, visit [`lpdensity` repository](https://github
 ### Software and Implementation
 
 - Cattaneo, Jansson and Ma (2020): [lpdensity: Local Polynomial Density Estimation and Inference](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2020_JSS.pdf).<br>
-Working paper.
+_Journal of Statistical Software_, forthcoming.
 
 ### Technical and Methodological
 
