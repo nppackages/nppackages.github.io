@@ -9,17 +9,17 @@ This work was supported in part by the National Science Foundation through grant
 - Cattaneo, Crump, Farrell and Feng (2020): [On Binscatter](https://github.com/nppackages-replication/CCFF-2020-wp).<br>
 Working paper.
 
+- Cattaneo, Jansson and Ma (2021): [Local Regression Distribution Estimators](https://github.com/nppackages-replication/CJM_2021_JOE).<br>
+_Journal of Econometrics_, forthcoming.
+
+- Cattaneo, Jansson and Ma (2021): [lpdensity: Local Polynomial Density Estimation and Inference](https://github.com/nppackages-replication/CJM_2021_JSS).<br>
+_Journal of Statistical Software_, forthcoming.
+
 - Cattaneo, Farrell and Feng (2020): [Large Sample Properties of Partitioning-Based Series Estimators](https://github.com/nppackages-replication/CFF-2020-AOS).<br>
 _Annals of Statistics_ 48(3): 1718-1741.
 
-- Cattaneo, Jansson and Ma (2020): [Local Regression Distribution Estimators](https://github.com/nppackages-replication/CJM_2020_JOE).<br>
-Working paper.
-
 - Cattaneo, Jansson and Ma (2020): [Simple Local Polynomial Density Estimators](https://github.com/nppackages-replication/CJM_2020_JASA).<br>
 _Journal of the American Statistical Association_ 115(531): 1449-1455.
-
-- Cattaneo, Jansson and Ma (2020): [lpdensity: Local Polynomial Density Estimation and Inference](https://github.com/nppackages-replication/CJM_2020_JSS).<br>
-Working paper.
 
 - Calonico, Cattaneo and Farrell (2019): [nprobust: Nonparametric Kernel-Based Estimation and Robust Bias-Corrected Inference](https://github.com/nppackages-replication/CCF_2019_JSS).<br>
 _Journal of Statistical Software_ 91(8): 1-33.
