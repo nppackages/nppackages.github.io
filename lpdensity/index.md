@@ -34,7 +34,7 @@ For source code and related files, visit [`lpdensity` repository](https://github
 
 ### Software and Implementation
 
-- Cattaneo, Jansson and Ma (2020): [lpdensity: Local Polynomial Density Estimation and Inference](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2020_JSS.pdf).<br>
+- Cattaneo, Jansson and Ma (2021): [lpdensity: Local Polynomial Density Estimation and Inference](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2021_JSS.pdf).<br>
 _Journal of Statistical Software_, forthcoming.
 
 ### Technical and Methodological
@@ -45,6 +45,6 @@ _Journal of the American Statistical Association_ 115(531): 1449-1455.<br>
 
 - Cattaneo, Jansson and Ma (2021): [Local Regression Distribution Estimators](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2021_JoE.pdf).<br>
 _Journal of Econometrics_, forthcoming.<br>
-[Supplemental Appendix](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2020_JoE--Supplement.pdf).
+[Supplemental Appendix](https://nppackages.github.io/references/Cattaneo-Jansson-Ma_2021_JoE--Supplement.pdf).
 
 <br><br>
