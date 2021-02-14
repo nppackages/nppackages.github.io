@@ -8,7 +8,7 @@ This work was supported in part by the National Science Foundation through grant
 
 Please email: [binsreg.package@gmail.com](binsreg.package@gmail.com)
 
-## Major Upgrades coming in Fall 2020:
+## Major Upgrades coming in Spring 2021:
 
 - L2 and other metrics for hypothesis testing.
 
