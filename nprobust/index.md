@@ -23,7 +23,7 @@ install.packages('nprobust')
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/nprobust/nprobust.pdf), [CRAN repository](https://cran.r-project.org/package=nprobust).
 
-- Replication: [R-script](https://raw.githubusercontent.com/nppackages/nprobust/master/R/nprobust_illustration.r), [nprobust_data](https://raw.githubusercontent.com/nppackages/nprobust/master/R/nprobust_data.csv).
+- Replication: [R-script](https://raw.githubusercontent.com/nppackages/nprobust/master/R/nprobust_illustration.R), [nprobust_data](https://raw.githubusercontent.com/nppackages/nprobust/master/R/nprobust_data.csv).
 
 ## Repository
 
