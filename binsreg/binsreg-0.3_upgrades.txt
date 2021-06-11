@@ -1,0 +1,32 @@
+BINSREG 0.3 -- https://nppackages.github.io/binsreg/
+Summary of upgrades and new features -- Summer 2021
+
+Upgrades and new features common to both R and Stata package:
+
+1. The new command "binsqreg" implements nonparametric quantile regression based on binscatter methods.
+
+2. The new command "binslogit" implements nonparametric logistic regression based on binscatter methods. In R, use the function "binsglm()".
+
+3. The new command "binsprobit" implements nonparametric probit regression based on binscatter methods. In R, use the function "binsglm()".
+
+4. The new command "binspwc" implements pairwise group comparison of binscatter estimators. Assuming subgroups are independent from each other, it provides formal tests for the difference of the unknown functions of interest between any two subgroups. Users can specify an estimation method, including (binscatter-based) least squares regression, quantile regression, logit regression, and probit regression.
+
+5. The previous command "binsregtest" is renamed "binstest". It conducts nonparametric shape restrictions tests and/or parametric functional form tests based on the user-specified estimation methods, including (binscatter-based) least squares regression, quantile regression, logit regression, and probit regression.
+
+6. The commands "binsreg", "binsqreg", "binslogit" and "binsprobit" no longer implement hypothesis testing procedures. To implement binscatter-based tests, please use the command "binstest" or "binspwc".
+ 
+7. The new option "at" allows users to construct a binscatter plot that evaluates the estimated function at different values of covariates.
+
+8. The new option "lp" allows users to conduct hypothesis tests based on different Lp metrics.
+
+9. The new options "plotxrange" and "plotyrange" allow users to specify the ranges of the x-axis and y-axis in the binscatter plot. Observations outside the range are dropped in the plot. 
+
+Upgrades and new features specific to R:
+
+1. The new function "binsglm()" implements nonparametric generalized linear estimation based on binscatter methods. For example, to implement logit or probit estimation, specify family=binomial(link="logit") or family=binomial(link="probit"). Other families and links are also allowed.
+
+2. Usual formulae now can be used to specify the control variables in the binscatter estimation. For example, given two variables z1 and z2, "w=~z1*z2" denotes z1, z2 and their interaction z1:z2 are used as the control variables.
+
+3. Users now can specify a data frame containing the variables used in the model.
+
+4. For quantile regression, the related functions in the binsreg package in R can provide inference based on a richer family of standard error methods, compared with their analogues in Stata. See more details in the help files of summary.rq() in R and qreg in Stata.
