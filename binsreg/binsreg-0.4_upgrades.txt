@@ -5,7 +5,7 @@ Summary of upgrades and new features -- Released on 02-Jul-2021
 
 New features common to both R and Stata package:
 
-1. The new option "asyvar" allows users to specify whether the uncertainty related to the control variables should be taken into account when computing standard errors. Previously, only the uncertainty of the nonparametric component is reflected by the standard error.
+1. The new option "asyvar" allows users to specify whether the uncertainty related to the control variables should be taken into account when computing standard errors. Previously, only the uncertainty of the nonparametric component was reflected by the standard error.
 
 2. The options "at" and "nolink" are added to the commands "binstest" and "binspwc". They allow users to test for properties of different estimands, including covariate-adjusted binscatter functions and transformations thereof using a link function.
 
@@ -23,7 +23,7 @@ New features specific to Stata package:
 
 ----------------------------------------------------------------------
 BINSREG 0.3 -- https://nppackages.github.io/binsreg/
-Summary of upgrades and new features -- Released on 
+Summary of upgrades and new features -- Released on 11-Jun-2021
 ----------------------------------------------------------------------
 
 New features common to both R and Stata package:
