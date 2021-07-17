@@ -1,29 +1,6 @@
 ----------------------------------------------------------------------
-BINSREG 0.4 -- https://nppackages.github.io/binsreg/
-Summary of upgrades and new features -- Released on 02-Jul-2021
-----------------------------------------------------------------------
-
-New features common to both R and Stata package:
-
-1. The new option "asyvar" allows users to specify whether the uncertainty related to the control variables should be taken into account when computing standard errors. Previously, only the uncertainty of the nonparametric component was reflected by the standard error.
-
-2. The options "at" and "nolink" are added to the commands "binstest" and "binspwc". They allow users to test for properties of different estimands, including covariate-adjusted binscatter functions and transformations thereof using a link function.
-
-3. The option "randcut" allows users to use a random subsample to select the number of bins.
-
-4. The command "binsregselect" now reports the bias and variance constants in the integrated mean squared error.
-
-
-New features specific to Stata package:
-
-1. The new option "usegtools" allows users to use several commands in the community-distributed package Gtools to speed the computation up.
-
-2. The new options "absorb" and "reghdfeopt" allow users to add fixed effects to least squares binscatter regression in a flexible way. In this case, the computation is based on the community-distributed command "reghdfe".
-
-
-----------------------------------------------------------------------
-BINSREG 0.3 -- https://nppackages.github.io/binsreg/
-Summary of upgrades and new features -- Released on 11-Jun-2021
+BINSREG -- https://nppackages.github.io/binsreg/
+Summary of upgrades and new features -- Summer 2021
 ----------------------------------------------------------------------
 
 New features common to both R and Stata package:
@@ -46,6 +23,14 @@ New features common to both R and Stata package:
 
 9. The new options "plotxrange" and "plotyrange" allow users to specify the ranges of the x-axis and y-axis in the binscatter plot. Observations outside the range are dropped in the plot. 
 
+10. The new option "asyvar" allows users to specify whether the uncertainty related to the control variables should be taken into account when computing standard errors. Previously, only the uncertainty of the nonparametric component was reflected by the standard error.
+
+11. The options "at" and "nolink" are added to the commands "binstest" and "binspwc". They allow users to test for properties of different estimands, including covariate-adjusted binscatter functions and transformations thereof using a link function.
+
+12. The option "randcut" allows users to use a random subsample to select the number of bins.
+
+13. The command "binsregselect" now reports the bias and variance constants in the integrated mean squared error.
+
 
 New features specific to R package:
 
@@ -56,3 +41,12 @@ New features specific to R package:
 3. Users now can specify a data frame containing the variables used in the model.
 
 4. For quantile regression, the related functions in the binsreg package in R can provide inference based on a richer family of standard error methods, compared with their analogues in Stata. See more details in the help files of summary.rq() in R and qreg in Stata.
+New features common to both R and Stata package:
+
+
+New features specific to Stata package:
+
+1. The new option "usegtools" allows users to use several commands in the community-distributed package Gtools to speed the computation up.
+
+2. The new options "absorb" and "reghdfeopt" allow users to add fixed effects to least squares binscatter regression in a flexible way. In this case, the computation is based on the community-distributed command "reghdfe".
+

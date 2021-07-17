@@ -12,8 +12,24 @@ Please email: [binsreg.package@gmail.com](mailto:binsreg.package@gmail.com)
 
 This package was first released in Winter 2019, and had one major upgrade in Summer 2021.
 
-- _Summer 2021 new features include_: (i) generalized linear models (logit, Probit, etc.) binscatter; (ii) quantile regression binscatter; (iii) new generic specification and shape restriction hypothesis testing function (now including Lp metrics); (iv) multi-group comparison of binscatter estimators; (v) generic point evaluation of covariate-adjusted binscatter; (vi) speed improvements and optimization. A complete list of upgrades is here: [UPGRADES](https://nppackages.github.io/binsreg/binsreg-0.4_upgrades.txt)
+- _Summer 2021 new features include_: (i) generalized linear models (logit, Probit, etc.) binscatter; (ii) quantile regression binscatter; (iii) new generic specification and shape restriction hypothesis testing function (now including Lp metrics); (iv) multi-group comparison of binscatter estimators; (v) generic point evaluation of covariate-adjusted binscatter; (vi) speed improvements and optimization. A complete list of upgrades is here: [UPGRADES](https://nppackages.github.io/binsreg/binsreg_upgrades.txt)
 
+
+## Python Implementation
+
+Coming soon!
+
+## R Implementation
+
+To install/update in R type:
+```
+install.packages('remotes')
+remotes::install_url('https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_0.4.2.tar.gz')
+```
+
+- Help: [R Manual](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg.pdf), [CRAN repository](https://cran.r-project.org/package=binsreg).
+
+- Replication: [R-script](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_R_illustration.R), [data](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_sim.csv).
 
 ## Stata Implementation
 
@@ -25,18 +41,6 @@ net install binsreg, from(https://raw.githubusercontent.com/nppackages/binsreg/m
 - Help: [binsreg](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg.pdf), [binslogit](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binslogit.pdf), [binsprobit](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsprobit.pdf), [binsqreg](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsqreg.pdf), [binstest](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binstest.pdf), [binspwc](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binspwc.pdf), [binsregselect](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsregselect.pdf).
 
 - Replication files: [do-file](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg_illustration.do), [data](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg_simdata.dta), [speed test](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg_speedtest.do).
-
-## R Implementation
-
-To install/update in R type:
-```
-install.packages('remotes')
-remotes::install_url('https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_0.4.1.tar.gz')
-```
-
-- Help: [R Manual](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg.pdf), [CRAN repository](https://cran.r-project.org/package=binsreg).
-
-- Replication: [R-script](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_R_illustration.R), [data](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_sim.csv).
 
 ## Repository
 
