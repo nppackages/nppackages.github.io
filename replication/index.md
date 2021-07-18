@@ -9,6 +9,9 @@ This work was supported in part by the National Science Foundation through grant
 - Cattaneo, Crump, Farrell and Feng (2020): [On Binscatter](https://github.com/nppackages-replication/CCFF-2020-wp).<br>
 Working paper.
 
+- Calonico, Cattaneo and Farrell (2021): [Coverage Error Optimal Confidence Intervals for Local Polynomial Regression](https://github.com/nppackages-replication/CCF_2021_Bernoulli).<br>
+Working paper.
+
 - Cattaneo, Jansson and Ma (2021): [Local Regression Distribution Estimators](https://github.com/nppackages-replication/CJM_2021_JOE).<br>
 _Journal of Econometrics_, forthcoming.
 
@@ -23,5 +26,8 @@ _Journal of the American Statistical Association_ 115(531): 1449-1455.
 
 - Calonico, Cattaneo and Farrell (2019): [nprobust: Nonparametric Kernel-Based Estimation and Robust Bias-Corrected Inference](https://github.com/nppackages-replication/CCF_2019_JSS).<br>
 _Journal of Statistical Software_ 91(8): 1-33.
+
+- Calonico, Cattaneo and Farrell (2018): [On the Effect of Bias Estimation on Coverage Accuracy in Nonparametric Inference](https://github.com/nppackages-replication/CCF_2018_JASA).<br>
+_Journal of the American Statistical Association_ 113(522): 767-779.
 
 <br><br>
