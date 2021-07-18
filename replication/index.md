@@ -6,7 +6,7 @@ This work was supported in part by the National Science Foundation through grant
 
 ## Research Articles and Applications
 
-- Cattaneo, Crump, Farrell and Feng (2020): [On Binscatter](https://github.com/nppackages-replication/CCFF-2020-wp).<br>
+- Cattaneo, Crump, Farrell and Feng (2021): [On Binscatter](https://github.com/nppackages-replication/CCFF_2021_wp).<br>
 Working paper.
 
 - Calonico, Cattaneo and Farrell (2021): [Coverage Error Optimal Confidence Intervals for Local Polynomial Regression](https://github.com/nppackages-replication/CCF_2021_Bernoulli).<br>
