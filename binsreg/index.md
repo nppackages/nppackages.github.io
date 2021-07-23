@@ -52,7 +52,7 @@ For source code and related files, visit [`binsreg` repository](https://github.c
 ### Software and Implementation
 
 - Cattaneo, Crump, Farrell and Feng (2021): [Binscatter Regressions](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2021_Stata.pdf).<br>
-Working paper, prepared for _Stata Journal_.<br>
+Working paper, prepared for _Stata Journal_.
 
 ### Technical and Methodological
 
