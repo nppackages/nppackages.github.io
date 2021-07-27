@@ -11,6 +11,7 @@ This work was supported in part by the National Science Foundation through grant
 - [lpdensity](https://nppackages.github.io/lpdensity) (R, Stata): estimation and inference using local polynomial distribution/density regression methods.
 - [lspartition](https://nppackages.github.io/lspartition) (R): estimation and inference using partitioning-based least squares methods, including B-splines, wavelet and piecewise polynomial regression estimators.
 
+
 ## Replication
 
 Replication files and illustration code are available in the [replication](https://nppackages.github.io/replication) page.
