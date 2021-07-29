@@ -4,6 +4,16 @@ The `nprobust` package provides Stata and R implementations of bandwidth selecti
 
 This work was supported by the National Science Foundation through grant [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931) and [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805).
 
+## R Implementation
+To install/update in R type:
+```
+install.packages('nprobust')
+```
+
+- Help: [R Manual](https://cran.r-project.org/web/packages/nprobust/nprobust.pdf), [CRAN repository](https://cran.r-project.org/package=nprobust).
+
+- Replication: [R-script](https://raw.githubusercontent.com/nppackages/nprobust/master/R/nprobust_illustration.R), [nprobust_data](https://raw.githubusercontent.com/nppackages/nprobust/master/R/nprobust_data.csv).
+
 ## Stata Implementation
 
 To install/update in Stata type:
@@ -14,16 +24,6 @@ net install nprobust, from(https://raw.githubusercontent.com/nppackages/nprobust
 - Help: [kdrobust](https://raw.githubusercontent.com/nppackages/nprobust/master/stata/kdrobust.pdf), [kdbwselect](https://raw.githubusercontent.com/nppackages/nprobust/master/stata/kdbwselect.pdf), [lprobust](https://raw.githubusercontent.com/nppackages/nprobust/master/stata/lprobust.pdf), [lpbwselect](https://raw.githubusercontent.com/nppackages/nprobust/master/stata/lpbwselect.pdf).
 
 - Replication: [do-file](https://raw.githubusercontent.com/nppackages/nprobust/master/stata/nprobust_illustration.do), [nprobust_data](https://raw.githubusercontent.com/nppackages/nprobust/master/stata/nprobust_data.dta).
-
-## R Implementation
-To install/update in R type:
-```
-install.packages('nprobust')
-```
-
-- Help: [R Manual](https://cran.r-project.org/web/packages/nprobust/nprobust.pdf), [CRAN repository](https://cran.r-project.org/package=nprobust).
-
-- Replication: [R-script](https://raw.githubusercontent.com/nppackages/nprobust/master/R/nprobust_illustration.R), [nprobust_data](https://raw.githubusercontent.com/nppackages/nprobust/master/R/nprobust_data.csv).
 
 ## Repository
 

@@ -4,16 +4,9 @@ The `lpdensity` package provides Stata and R implementations of bandwidth select
 
 This work was supported by the National Science Foundation through grant [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931), [SES-1459967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967), [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805) and [SES-1947662](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662).
 
-## Stata Implementation
+## Python Implementation
 
-To install/update in Stata type:
-```
-net install lpdensity, from(https://raw.githubusercontent.com/nppackages/lpdensity/master/stata) replace
-```
-
-- Help: [lpdensity](https://raw.githubusercontent.com/nppackages/lpdensity/master/stata/lpdensity.pdf), [lpbwdensity](https://raw.githubusercontent.com/nppackages/lpdensity/master/stata/lpbwdensity.pdf).
-
-- Replication: [do-file](https://raw.githubusercontent.com/nppackages/lpdensity/master/stata/lpdensity_illustration.do).
+Coming soon.
 
 ## R Implementation
 
@@ -24,6 +17,17 @@ install.packages('lpdensity')
 - Help: [R Manual](https://cran.r-project.org/web/packages/lpdensity/lpdensity.pdf), [CRAN repository](https://cran.r-project.org/package=lpdensity).
 
 - Replication: [R-script](https://raw.githubusercontent.com/nppackages/lpdensity/master/R/lpdensity_illustration.R).
+
+## Stata Implementation
+
+To install/update in Stata type:
+```
+net install lpdensity, from(https://raw.githubusercontent.com/nppackages/lpdensity/master/stata) replace
+```
+
+- Help: [lpdensity](https://raw.githubusercontent.com/nppackages/lpdensity/master/stata/lpdensity.pdf), [lpbwdensity](https://raw.githubusercontent.com/nppackages/lpdensity/master/stata/lpbwdensity.pdf).
+
+- Replication: [do-file](https://raw.githubusercontent.com/nppackages/lpdensity/master/stata/lpdensity_illustration.do).
 
 ## Repository
 

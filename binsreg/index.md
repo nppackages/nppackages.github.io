@@ -17,7 +17,7 @@ This package was first released in Winter 2019, and had one major upgrade in Sum
 
 ## Python Implementation
 
-Coming soon!
+Coming soon.
 
 ## R Implementation
 
