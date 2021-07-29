@@ -8,17 +8,17 @@ This work was supported in part by the National Science Foundation through grant
 
 https://nppackages.github.io
 
-## Software available
+## Software available in Python, R and/or Stata
 
-- [binsreg](https://nppackages.github.io/binsreg) (Python, R, Stata): partition selection, point estimation, pointwise and uniform inference, and graphical procedures using binscatter methods.
-- [lspartition](https://nppackages.github.io/lspartition) (R): estimation and inference using partitioning-based least squares methods, including B-splines, wavelet and piecewise polynomial regression estimators.
-- [portsort](https://nppackages.github.io/portsort) (Python, R, Stata): estimation and inference using portfolio sorting methods.
+- [binsreg](https://nppackages.github.io/binsreg): partition selection, point estimation, pointwise and uniform inference, and graphical procedures using binscatter methods.
+- [lspartition](https://nppackages.github.io/lspartition): estimation and inference using partitioning-based least squares methods, including B-splines, wavelet and piecewise polynomial regression estimators.
+- [portsort](https://nppackages.github.io/portsort): estimation and inference using portfolio sorting methods.
 
-- [nprobust](https://nppackages.github.io/nprobust) (R, Stata): estimation and inference using kernel density and local polynomial regression methods.
-- [lpdensity](https://nppackages.github.io/lpdensity) (R, Stata): estimation and inference using local polynomial distribution/density regression methods.
-- [lpcde](https://nppackages.github.io/lpcde) (Python, R, Stata): estimation and inference using local polynomial conditional distribution/density regression methods.
+- [nprobust](https://nppackages.github.io/nprobust): estimation and inference using kernel density and local polynomial regression methods.
+- [lpdensity](https://nppackages.github.io/lpdensity): estimation and inference using local polynomial distribution/density regression methods.
+- [lpcde](https://nppackages.github.io/lpcde): estimation and inference using local polynomial conditional distribution/density regression methods.
 
-- [scpi](https://nppackages.github.io/lpcde) (Python, R, Stata): estimation and inference using synthetic control methods.
+- [scpi](https://nppackages.github.io/lpcde): estimation and inference using synthetic control methods.
 
 ## Replication
 
