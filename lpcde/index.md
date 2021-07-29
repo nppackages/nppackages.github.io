@@ -16,6 +16,11 @@ Coming soon.
 
 Coming soon.
 
+## Repository
+
+For source code and related files, visit [`lpcde` repository](https://github.com/nppackages/lpcde/).
+
+
 ## References
 
 ### Software and Implementation
