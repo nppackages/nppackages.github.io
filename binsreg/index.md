@@ -6,7 +6,7 @@ This work was supported in part by the National Science Foundation through grant
 
 ## Queries and Requests
 
-Please email: [binsreg.package@gmail.com](mailto:binsreg.package@gmail.com)
+Please email: [binsreg@googlegroups.com](mailto:binsreg@googlegroups.com)
 
 ## Major Upgrades
 
