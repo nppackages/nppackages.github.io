@@ -23,8 +23,7 @@ Coming soon.
 
 To install/update in R type:
 ```
-install.packages('remotes')
-remotes::install_url('https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_0.4.3.tar.gz')
+install.packages('binsreg')
 ```
 
 - Help: [R Manual](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg.pdf), [CRAN repository](https://cran.r-project.org/package=binsreg).
