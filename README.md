@@ -11,8 +11,8 @@ https://nppackages.github.io
 ## Software available in Python, R and/or Stata
 
 - [binsreg](https://nppackages.github.io/binsreg): partition selection, point estimation, pointwise and uniform inference, and graphical procedures using binscatter methods.
-- [lspartition](https://nppackages.github.io/lspartition): estimation and inference using partitioning-based least squares methods, including B-splines, wavelet and piecewise polynomial regression estimators.
 - [portsort](https://nppackages.github.io/portsort): estimation and inference using portfolio sorting methods.
+- [lspartition](https://nppackages.github.io/lspartition): estimation and inference using partitioning-based least squares methods, including B-splines, wavelet and piecewise polynomial regression estimators.
 
 - [nprobust](https://nppackages.github.io/nprobust): estimation and inference using kernel density and local polynomial regression methods.
 - [lpdensity](https://nppackages.github.io/lpdensity): estimation and inference using local polynomial distribution/density regression methods.
