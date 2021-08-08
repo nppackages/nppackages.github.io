@@ -1,6 +1,6 @@
 # SCPI
 
-The `scpi` package provides implementations of estimation and inference procedures for synthetic control methods.
+The `scpi` package provides Python, R and Stata implementations of estimation and inference procedures for synthetic control methods.
 
 This work was supported by the National Science Foundation through grant [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805) and [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432).
 
