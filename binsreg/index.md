@@ -17,7 +17,14 @@ This package was first released in Winter 2019, and had one major upgrade in Sum
 
 ## Python Implementation
 
-Coming soon.
+To install/update in Python type:
+```
+pip install -i https://test.pypi.org/simple/ binsreg
+```
+
+- Help: [PyPI repository](https://test.pypi.org/project/binsreg/).
+
+- Replication: [py-script](https://raw.githubusercontent.com/nppackages/binsreg/master/Python/binsreg_illustration.py), [data](https://raw.githubusercontent.com/nppackages/binsreg/master/Python/binsreg_senate.csv).
 
 ## R Implementation
 
