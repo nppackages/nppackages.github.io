@@ -19,12 +19,12 @@ This package was first released in Winter 2019, and had one major upgrade in Sum
 
 To install/update in Python type:
 ```
-pip install -i https://test.pypi.org/simple/ binsreg
+pip install binsreg
 ```
 
-- Help: [PyPI repository](https://test.pypi.org/project/binsreg/).
+- Help: [PyPI repository](https://pypi.org/project/binsreg/).
 
-- Replication: [py-script](https://raw.githubusercontent.com/nppackages/binsreg/master/Python/binsreg_illustration.py), [data](https://raw.githubusercontent.com/nppackages/binsreg/master/Python/binsreg_sim.csv).
+- Replication: [py-script](https://raw.githubusercontent.com/nppackages/binsreg/master/Python/binsreg_illustration.py), [plot illustration](https://raw.githubusercontent.com/nppackages/binsreg/master/Python/binsreg_illustration_plot.py), [data](https://raw.githubusercontent.com/nppackages/binsreg/master/Python/binsreg_sim.csv).
 
 ## R Implementation
 
@@ -35,7 +35,7 @@ install.packages('binsreg')
 
 - Help: [R Manual](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg.pdf), [CRAN repository](https://cran.r-project.org/package=binsreg).
 
-- Replication: [R-script](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_R_illustration.R), [data](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_sim.csv).
+- Replication: [R-script](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_illustration.R), [plot illustration](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_illustration_plot.R), [data](https://raw.githubusercontent.com/nppackages/binsreg/master/R/binsreg_sim.csv).
 
 ## Stata Implementation
 
@@ -46,7 +46,7 @@ net install binsreg, from(https://raw.githubusercontent.com/nppackages/binsreg/m
 
 - Help: [binsreg](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg.pdf), [binslogit](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binslogit.pdf), [binsprobit](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsprobit.pdf), [binsqreg](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsqreg.pdf), [binstest](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binstest.pdf), [binspwc](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binspwc.pdf), [binsregselect](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsregselect.pdf).
 
-- Replication files: [do-file](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg_illustration.do), [data](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg_simdata.dta), [speed test](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg_speedcomparison.do).
+- Replication files: [do-file](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg_illustration.do), [plot illustration](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg_illustration_plot.do), [data](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg_simdata.dta), [speed test](https://raw.githubusercontent.com/nppackages/binsreg/master/stata/binsreg_speedcomparison.do).
 
 ## Repository
 
