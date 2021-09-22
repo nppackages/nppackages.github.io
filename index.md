@@ -24,7 +24,7 @@ Replication files and illustration code are available in the [replication](https
 
 - [Sebastian Calonico](https://sites.google.com/site/scalonico), Columbia University.
 - [Matias D. Cattaneo](https://cattaneo.princeton.edu), Princeton University.
-- [Rajita Chandak](https://orfe.princeton.edu/people/graduate), Princeton University.
+- [Rajita Chandak](https://rajitachandak.github.io), Princeton University.
 - [Richard K. Crump](https://www.newyorkfed.org/research/economists/crump), Federal Reserve Bank of New York.
 - [Max H. Farrell](https://maxhfarrell.com/), University of Chicago.
 - [Yingjie Feng](https://sites.google.com/site/yingjieum), Tsinghua University.
