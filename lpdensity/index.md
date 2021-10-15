@@ -6,7 +6,14 @@ This work was supported by the National Science Foundation through grant [SES-14
 
 ## Python Implementation
 
-Coming soon.
+To install/update in Python type:
+```
+pip install lpdensity
+```
+- Help: [Python Manual](https://lpdensity.readthedocs.io/), [PyPi repository](https://pypi.org/project/lpdensity/).
+
+- Replication: [py-script](https://raw.githubusercontent.com/nppackages/lpdensity/master/Python/lpdensity_illustration.py).
+
 
 ## R Implementation
 
