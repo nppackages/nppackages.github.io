@@ -10,7 +10,7 @@ This work was supported in part by the National Science Foundation through grant
 Working paper.
 
 - Calonico, Cattaneo and Farrell (2021): [Coverage Error Optimal Confidence Intervals for Local Polynomial Regression](https://github.com/nppackages-replication/CCF_2021_Bernoulli).<br>
-Working paper.
+_Bernoulli_, forthcoming.
 
 - Cattaneo, Jansson and Ma (2021): [Local Regression Distribution Estimators](https://github.com/nppackages-replication/CJM_2021_JOE).<br>
 _Journal of Econometrics_, forthcoming.
