@@ -38,7 +38,7 @@ Replication files and illustration code are available in the [replication](https
 - [Filippo Palomba](https://economics.princeton.edu/graduate-program/graduate-student-directory), Princeton University.
 - [Rocio Titiunik](https://scholar.princeton.edu/titiunik), Princeton University.
 - [Weining Wang](https://sites.google.com/site/weiningwanghu/home), University of York.
-- [Zhijiang (Tony) Ye](https://orfe.princeton.edu/people/graduate), Princeton University.
+- [Zhijiang (Tony) Ye](https://www.linkedin.com/in/tony-ye/), L.E.K. Consulting.
 
 <br><br>
 
