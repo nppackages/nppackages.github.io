@@ -64,7 +64,7 @@ For source code and related files, visit [`scpi` repository](https://github.com/
 
 ### Software and Implementation
 
-- Cattaneo, Feng, Palomba and Titiunik (2022): [scpi: Uncertainty Quantification for Synthetic Control Estimators](https://nppackages.github.io/references/Cattaneo-Feng-Palomba-Titiunik_2022_scpi).<br>
+- Cattaneo, Feng, Palomba and Titiunik (2022): [scpi: Uncertainty Quantification for Synthetic Control Estimators](https://nppackages.github.io/references/Cattaneo-Feng-Palomba-Titiunik_2022_scpi.pdf).<br>
 Working paper.
 
 ### Technical and Methodological
