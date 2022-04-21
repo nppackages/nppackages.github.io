@@ -9,6 +9,8 @@ This work was supported in part by the National Science Foundation through grant
 - Cattaneo, Crump, Farrell and Feng (2022): [On Binscatter](https://github.com/nppackages-replication/CCFF_2022_wp).<br>
 Working paper.
 
+- 
+
 - Cattaneo, Chandak, Jansson and Ma (2022): [Boundary Adaptive Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2022_LPCondDen).<br>
 Working paper.
 
@@ -22,7 +24,7 @@ _Bernoulli_, forthcoming.
 _Journal of Econometrics_, forthcoming.
 
 - Cattaneo, Jansson and Ma (2021): [lpdensity: Local Polynomial Density Estimation and Inference](https://github.com/nppackages-replication/CJM_2021_JSS).<br>
-_Journal of Statistical Software_, forthcoming.
+_Journal of Statistical Software_ 101(2): 1-25.
 
 - Cattaneo, Farrell and Feng (2020): [Large Sample Properties of Partitioning-Based Series Estimators](https://github.com/nppackages-replication/CFF-2020-AOS).<br>
 _Annals of Statistics_ 48(3): 1718-1741.
