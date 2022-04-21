@@ -21,10 +21,10 @@ Working paper.
 - Calonico, Cattaneo and Farrell (2022): [Coverage Error Optimal Confidence Intervals for Local Polynomial Regression](https://github.com/nppackages-replication/CCF_2022_Bernoulli).<br>
 _Bernoulli_, forthcoming.
 
-- Cattaneo, Jansson and Ma (2021): [Local Regression Distribution Estimators](https://github.com/nppackages-replication/CJM_2021_JOE).<br>
+- Cattaneo, Jansson and Ma (2022): [Local Regression Distribution Estimators](https://github.com/nppackages-replication/CJM_2022_JOE).<br>
 _Journal of Econometrics_, forthcoming.
 
-- Cattaneo, Jansson and Ma (2021): [lpdensity: Local Polynomial Density Estimation and Inference](https://github.com/nppackages-replication/CJM_2021_JSS).<br>
+- Cattaneo, Jansson and Ma (2022): [lpdensity: Local Polynomial Density Estimation and Inference](https://github.com/nppackages-replication/CJM_2022_JSS).<br>
 _Journal of Statistical Software_ 101(2): 1-25.
 
 - Cattaneo, Farrell and Feng (2020): [Large Sample Properties of Partitioning-Based Series Estimators](https://github.com/nppackages-replication/CFF-2020-AOS).<br>
