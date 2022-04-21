@@ -9,10 +9,10 @@ This work was supported in part by the National Science Foundation through grant
 - Cattaneo, Crump, Farrell and Feng (2022): [On Binscatter](https://github.com/nppackages-replication/CCFF_2022_wp).<br>
 Working paper.
 
-- Cattaneo, Chandak, Jansson and Ma (2022): [Boundary Adaptive Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2022_LPCondDen).
+- Cattaneo, Chandak, Jansson and Ma (2022): [Boundary Adaptive Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2022_LPCondDen).<br>
 Working paper.
 
-- Cattaneo, Chandak, Jansson and Ma (2022): [lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2022_LPCondDen).
+- Cattaneo, Chandak, Jansson and Ma (2022): [lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2022_lpcde).<br>
 Working paper.
 
 - Calonico, Cattaneo and Farrell (2022): [Coverage Error Optimal Confidence Intervals for Local Polynomial Regression](https://github.com/nppackages-replication/CCF_2022_Bernoulli).<br>
