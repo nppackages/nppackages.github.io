@@ -12,7 +12,7 @@ install.packages('lpcde')
 ```
 - Help: [R Manual](https://cran.r-project.org/web/packages/lpcde/lpcde.pdf), [CRAN repository](https://cran.r-project.org/package=lpcde).
 
-- Replication: [R-script](https://raw.githubusercontent.com/nppackages/lpdensity/master/R/lpcde_illustration.R).
+- Replication: [R-script](https://github.com/nppackages/lpcde/blob/main/R/lpcde_illustration.R).
 
 ## Repository
 
