@@ -4,6 +4,10 @@ The `lspartition` package provides an R implementation of tuning parameter selec
 
 This work was supported in part by the National Science Foundation through grant [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931).
 
+## Queries and Requests
+
+Please email: [lspartition@googlegroups.com](mailto:lspartition@googlegroups.com)
+
 ## R Implementation
 To install/update in R type:
 ```
