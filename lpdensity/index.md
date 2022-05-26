@@ -1,6 +1,3 @@
----
-permalink: /lpdensity_doc/
----
 # LPDENSITY
 
 The `lpdensity` package provides Python, R and Stata implementations of bandwidth selection, point estimation and inference procedures for local polynomial distribution and density methods.
