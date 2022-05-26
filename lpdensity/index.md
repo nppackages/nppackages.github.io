@@ -4,6 +4,10 @@ The `lpdensity` package provides Python, R and Stata implementations of bandwidt
 
 This work was supported by the National Science Foundation through grant [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931), [SES-1459967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967), [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805) and [SES-1947662](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662).
 
+## Queries and Requests
+
+Please email: [lpdensity@googlegroups.com](mailto:lpdensity@googlegroups.com)
+
 ## Python Implementation
 
 To install/update in Python type:
