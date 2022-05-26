@@ -11,7 +11,7 @@ This work was supported in part by the National Science Foundation through grant
 - [lspartition](https://nppackages.github.io/lspartition): estimation and inference using partitioning-based least squares methods, including B-splines, wavelet and piecewise polynomial regression estimators.
 
 - [nprobust](https://nppackages.github.io/nprobust): estimation and inference using kernel density and local polynomial regression methods.
-- [lpdensity](https://nppackages.github.io/lpdensity): estimation and inference using local polynomial distribution/density regression methods.
+- [lpdensity](https://nppackages.github.io/lpdensity_doc): estimation and inference using local polynomial distribution/density regression methods.
 - [lpcde](https://nppackages.github.io/lpcde): estimation and inference using local polynomial conditional distribution/density regression methods.
 
 - [scpi](https://nppackages.github.io/lpcde): estimation and inference using synthetic control methods.
