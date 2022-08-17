@@ -16,7 +16,7 @@ install.packages('nprobust')
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/nprobust/nprobust.pdf), [CRAN repository](https://cran.r-project.org/package=nprobust).
 
-- Replication: [R-script](https://raw.githubusercontent.com/nppackages/nprobust/master/R/nprobust_illustration.R), [nprobust_data](https://raw.githubusercontent.com/nppackages/nprobust/master/R/nprobust_data.csv).
+- Replication: [R-script](https://github.com/nppackages/nprobust/blob/master/R/nprobust_illustration.R), [nprobust_data](https://github.com/nppackages/nprobust/blob/master/R/nprobust_data.csv).
 
 ## Stata Implementation
 
@@ -25,9 +25,9 @@ To install/update in Stata type:
 net install nprobust, from(https://raw.githubusercontent.com/nppackages/nprobust/master/stata) replace
 ```
 
-- Help: [kdrobust](https://raw.githubusercontent.com/nppackages/nprobust/master/stata/kdrobust.pdf), [kdbwselect](https://raw.githubusercontent.com/nppackages/nprobust/master/stata/kdbwselect.pdf), [lprobust](https://raw.githubusercontent.com/nppackages/nprobust/master/stata/lprobust.pdf), [lpbwselect](https://raw.githubusercontent.com/nppackages/nprobust/master/stata/lpbwselect.pdf).
+- Help: [kdrobust](https://github.com/nppackages/nprobust/blob/master/stata/kdrobust.pdf), [kdbwselect](https://github.com/nppackages/nprobust/blob/master/stata/kdbwselect.pdf), [lprobust](https://github.com/nppackages/nprobust/blob/master/stata/lprobust.pdf), [lpbwselect](https://github.com/nppackages/nprobust/blob/master/stata/lpbwselect.pdf).
 
-- Replication: [do-file](https://raw.githubusercontent.com/nppackages/nprobust/master/stata/nprobust_illustration.do), [nprobust_data](https://raw.githubusercontent.com/nppackages/nprobust/master/stata/nprobust_data.dta).
+- Replication: [do-file](https://github.com/nppackages/nprobust/blob/master/stata/nprobust_illustration.do), [nprobust_data](https://github.com/nppackages/nprobust/blob/master/stata/nprobust_data.dta).
 
 ## Repository
 
