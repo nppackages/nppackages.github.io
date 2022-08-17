@@ -26,7 +26,7 @@ To install/update in R from CRAN type:
 install.packages('scpi')
 ````
 
-- Help: [R Manual](https://github.com/nppackages/scpi/blob/main/R/scpi.pdf), [CRAN repository](https://cran.r-project.org/package=scpi).
+- Help: [R Manual](https://cran.r-project.org/web/packages/scpi/scpi.pdf), [CRAN repository](https://cran.r-project.org/package=scpi).
 
 - Replication: [R-script](https://github.com/nppackages/scpi/blob/main/R/scpi_illustration.R), [plot illustration](https://github.com/nppackages/scpi/blob/main/R/scpi_illustration_plot.R), [data](https://github.com/nppackages/scpi/blob/main/R/scpi_germany.csv).
 
