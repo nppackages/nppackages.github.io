@@ -19,6 +19,9 @@ pip install scpi_pkg
 
 - Replication: [py-script](https://github.com/nppackages/scpi/blob/main/Python/scpi_illustration.py), [plot illustration](https://github.com/nppackages/scpi/blob/main/Python/scpi_illustration_plot.py), [data](https://github.com/nppackages/scpi/blob/main/Python/scpi_germany.csv).
 
+- Illustration Staggered Adoption: [py-script](https://github.com/nppackages/scpi/blob/main/Python/scpi_illustration-multi.py), [plot illustration](https://github.com/nppackages/scpi/blob/main/Python/scpi_illustration_plot-multi.py).
+
+
 ## R Implementation
 
 To install/update in R from CRAN type:
@@ -29,6 +32,8 @@ install.packages('scpi')
 - Help: [R Manual](https://cran.r-project.org/web/packages/scpi/scpi.pdf), [CRAN repository](https://cran.r-project.org/package=scpi).
 
 - Replication: [R-script](https://github.com/nppackages/scpi/blob/main/R/scpi_illustration.R), [plot illustration](https://github.com/nppackages/scpi/blob/main/R/scpi_illustration_plot.R), [data](https://github.com/nppackages/scpi/blob/main/R/scpi_germany.csv).
+
+- Illustration Staggered Adoption: [R-script](https://github.com/nppackages/scpi/blob/main/R/scpi_illustration-multi.R), [plot illustration](https://github.com/nppackages/scpi/blob/main/R/scpi_illustration_plot-multi.R).
 
 ## Stata Implementation
 
@@ -52,6 +57,9 @@ net install scpi, from(https://raw.githubusercontent.com/nppackages/scpi/master/
 - Help: [scdata](https://github.com/nppackages/scpi/blob/main/stata/scdata.pdf), [scest](https://github.com/nppackages/scpi/blob/main/stata/scest.pdf), [scpi](https://github.com/nppackages/scpi/blob/main/stata/scpi.pdf), [scplot](https://github.com/nppackages/scpi/blob/main/stata/scplot.pdf).
 
 - Replication files: [do-file](https://github.com/nppackages/scpi/blob/main/stata/scpi_illustration.do), [plot illustration](https://github.com/nppackages/scpi/blob/main/stata/scpi_illustration_plot.do), [data](https://github.com/nppackages/scpi/blob/main/stata/scpi_germany.dta).
+
+- Illustration Staggered Adoption: [do-file](https://github.com/nppackages/scpi/blob/main/stata/scpi_illustration-multi.do), [plot illustration](https://github.com/nppackages/scpi/blob/main/stata/scpi_illustration_plot-multi.do).
+
 
 ## Repository
 
