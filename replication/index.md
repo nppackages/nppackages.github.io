@@ -18,11 +18,11 @@ Working paper.
 - Cattaneo, Chandak, Jansson and Ma (2022): [lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2022_lpcde).<br>
 Working paper.
 
-- Calonico, Cattaneo and Farrell (2022): [Coverage Error Optimal Confidence Intervals for Local Polynomial Regression](https://github.com/nppackages-replication/CCF_2022_Bernoulli).<br>
-_Bernoulli_ 28(4): 2998-3022.
-
 - Cattaneo, Jansson and Ma (2022): [Local Regression Distribution Estimators](https://github.com/nppackages-replication/CJM_2022_JOE).<br>
 _Journal of Econometrics_, forthcoming.
+
+- Calonico, Cattaneo and Farrell (2022): [Coverage Error Optimal Confidence Intervals for Local Polynomial Regression](https://github.com/nppackages-replication/CCF_2022_Bernoulli).<br>
+_Bernoulli_ 28(4): 2998-3022.
 
 - Cattaneo, Jansson and Ma (2022): [lpdensity: Local Polynomial Density Estimation and Inference](https://github.com/nppackages-replication/CJM_2022_JSS).<br>
 _Journal of Statistical Software_ 101(2): 1-25.
