@@ -14,7 +14,7 @@ This work was supported in part by the National Science Foundation through grant
 - [lpdensity](https://nppackages.github.io/lpdensity): estimation and inference using local polynomial distribution/density regression methods.
 - [lpcde](https://nppackages.github.io/lpcde): estimation and inference using local polynomial conditional distribution/density regression methods.
 
-- [scpi](https://nppackages.github.io/lpcde): estimation and inference using synthetic control methods.
+- [scpi](https://nppackages.github.io/scpi): estimation and inference using synthetic control methods.
 
 ## Replication
 
