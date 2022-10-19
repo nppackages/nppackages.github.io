@@ -35,7 +35,7 @@ Replication files and illustration code are available in the [replication](https
 - [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley and CREATES.
 - [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
 - [Ricardo Masini](https://masini.princeton.edu), Princeton University.
-- [Filippo Palomba](https://economics.princeton.edu/graduate-program/graduate-student-directory), Princeton University.
+- [Filippo Palomba](https://filippopalomba.github.io/), Princeton University.
 - [Rocio Titiunik](https://scholar.princeton.edu/titiunik), Princeton University.
 - [Weining Wang](https://sites.google.com/site/weiningwanghu/home), University of York.
 - [Zhijiang (Tony) Ye](https://www.linkedin.com/in/tony-ye/), L.E.K. Consulting.
