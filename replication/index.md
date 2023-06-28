@@ -9,7 +9,7 @@ This work was supported in part by the National Science Foundation through grant
 - Cattaneo, Crump, Farrell and Feng (2023): [On Binscatter](https://github.com/nppackages-replication/CCFF_2023_Binscatter).<br>
 Working paper.
 
-- Cattaneo, Crump, Farrell and Feng (2023): [Generalized Binscatter Methods](https://github.com/nppackages-replication/CCFF_2023_GenBinscatter).<br>
+- Cattaneo, Crump, Farrell and Feng (2023): [Nonlinear Binscatter Methods](https://github.com/nppackages-replication/CCFF_2023_GenBinscatter).<br>
 Working paper.
 
 - Cattaneo, Feng, Palomba and Titiunik (2022): [Uncertainty Quantification in Synthetic Controls with Staggered Treatment Adoption](https://github.com/nppackages-replication/CFPT_2022_wp).<br>

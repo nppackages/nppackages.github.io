@@ -66,7 +66,7 @@ Working paper, prepared for _Stata Journal_.
 Working paper.<br>
 [Supplemental Appendix](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2023_Binscatter--Supplemental.pdf)
 
-- Cattaneo, Crump, Farrell and Feng (2023): Generalized Binscatter Methods.<br>
+- Cattaneo, Crump, Farrell and Feng (2023): Nonlinear Binscatter Methods.<br>
 Working paper.<br>
 Supplemental Appendix
 
