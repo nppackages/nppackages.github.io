@@ -7,12 +7,12 @@ This work was supported in part by the National Science Foundation through grant
 ## Research Articles and Applications
 
 - Cattaneo, Crump, Farrell and Feng (2023): [On Binscatter](https://github.com/nppackages-replication/CCFF_2023_Binscatter).<br>
-Working paper.
+_American Economic Review_, conditionally accepted.
 
 - Cattaneo, Crump, Farrell and Feng (2023): [Nonlinear Binscatter Methods](https://github.com/nppackages-replication/CCFF_2023_NonlinearBinscatter).<br>
 Working paper.
 
-- Cattaneo, Feng, Palomba and Titiunik (2022): [Uncertainty Quantification in Synthetic Controls with Staggered Treatment Adoption](https://github.com/nppackages-replication/CFPT_2022_wp).<br>
+- Cattaneo, Feng, Palomba and Titiunik (2023): [Uncertainty Quantification in Synthetic Controls with Staggered Treatment Adoption](https://github.com/nppackages-replication/CFPT_2022_wp).<br>
 Working paper.
 
 - Cattaneo, Chandak, Jansson and Ma (2023): [Boundary Adaptive Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2023_Bernoulli).<br>
