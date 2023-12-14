@@ -9,7 +9,7 @@ This work was supported in part by the National Science Foundation through grant
 - Cattaneo, Crump, Farrell and Feng (2024): [Nonlinear Binscatter Methods](https://github.com/nppackages-replication/CCFF_2024_NonlinearBinscatter).<br>
 Working paper.
 
-- Cattaneo, Feng, Palomba and Titiunik (2023): [Uncertainty Quantification in Synthetic Controls with Staggered Treatment Adoption](https://github.com/nppackages-replication/CFPT_2022_wp).<br>
+- Cattaneo, Feng, Palomba and Titiunik (2024): [Uncertainty Quantification in Synthetic Controls with Staggered Treatment Adoption](https://github.com/nppackages-replication/CFPT_2024_wp).<br>
 Working paper.
 
 - Cattaneo, Chandak, Jansson and Ma (2022): [lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2022_lpcde).<br>
