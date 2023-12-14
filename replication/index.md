@@ -9,17 +9,17 @@ This work was supported in part by the National Science Foundation through grant
 - Cattaneo, Crump, Farrell and Feng (2024): [Nonlinear Binscatter Methods](https://github.com/nppackages-replication/CCFF_2024_NonlinearBinscatter).<br>
 Working paper.
 
-- Cattaneo, Crump, Farrell and Feng (2024): [On Binscatter](https://github.com/nppackages-replication/CCFF_2024_AER).<br>
-_American Economic Review_, conditionally accepted.
-
 - Cattaneo, Feng, Palomba and Titiunik (2023): [Uncertainty Quantification in Synthetic Controls with Staggered Treatment Adoption](https://github.com/nppackages-replication/CFPT_2022_wp).<br>
-Working paper.
-
-- Cattaneo, Chandak, Jansson and Ma (2023): [Boundary Adaptive Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2024_Bernoulli).<br>
 Working paper.
 
 - Cattaneo, Chandak, Jansson and Ma (2022): [lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2022_lpcde).<br>
 Working paper.
+
+- Cattaneo, Crump, Farrell and Feng (2024): [On Binscatter](https://github.com/nppackages-replication/CCFF_2024_AER).<br>
+_American Economic Review_, conditionally accepted.
+
+- Cattaneo, Chandak, Jansson and Ma (2024): [Boundary Adaptive Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2024_Bernoulli).<br>
+_Bernoulli_, forthcoming.
 
 - Cattaneo, Jansson and Ma (2022): [Local Regression Distribution Estimators](https://github.com/nppackages-replication/CJM_2022_JOE).<br>
 _Journal of Econometrics_, forthcoming.
