@@ -21,7 +21,7 @@ _American Economic Review_, conditionally accepted.
 - Cattaneo, Chandak, Jansson and Ma (2024): [Boundary Adaptive Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2024_Bernoulli).<br>
 _Bernoulli_, forthcoming.
 
-- Cattaneo, Jansson and Ma (2022): [Local Regression Distribution Estimators](https://github.com/nppackages-replication/CJM_2022_JOE).<br>
+- Cattaneo, Jansson and Ma (2024): [Local Regression Distribution Estimators](https://github.com/nppackages-replication/CJM_2024_JOE).<br>
 _Journal of Econometrics_, forthcoming.
 
 - Calonico, Cattaneo and Farrell (2022): [Coverage Error Optimal Confidence Intervals for Local Polynomial Regression](https://github.com/nppackages-replication/CCF_2022_Bernoulli).<br>
