@@ -27,7 +27,7 @@ For source code and related files, visit [`lpcde` repository](https://github.com
 
 ### Software and Implementation
 
-- Cattaneo, Chandak, Jansson and Ma (2022): [lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators](https://nppackages.github.io/references/Cattaneo-Chandak-Jansson-Ma_2022_lpcde.pdf).<br>
+- Cattaneo, Chandak, Jansson and Ma (2024): [lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators](https://nppackages.github.io/references/Cattaneo-Chandak-Jansson-Ma_2024_lpcde.pdf).<br>
 Working paper.
 
 
