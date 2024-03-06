@@ -57,7 +57,7 @@ For source code and related files, visit [`binsreg` repository](https://github.c
 
 ### Software and Implementation
 
-- Cattaneo, Crump, Farrell and Feng (2023): [Binscatter Regressions](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2023_Stata.pdf).<br>
+- Cattaneo, Crump, Farrell and Feng (2024): [Binscatter Regressions](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2024_Stata.pdf).<br>
 Working paper, prepared for _Stata Journal_.
 
 ### Technical and Methodological
@@ -66,9 +66,9 @@ Working paper, prepared for _Stata Journal_.
 _American Economic Review_, forthcoming.<br>
 [Supplemental Appendix](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2024_AER--Supplemental.pdf)
 
-- Cattaneo, Crump, Farrell and Feng (2023): [Nonlinear Binscatter Methods](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2023_NonlinearBinscatter.pdf).<br>
+- Cattaneo, Crump, Farrell and Feng (2024): [Nonlinear Binscatter Methods](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2024_NonlinearBinscatter.pdf).<br>
 Working paper.<br>
-[Supplemental Appendix](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2023_NonlinearBinscatter--Supplemental.pdf)
+[Supplemental Appendix](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2024_NonlinearBinscatter--Supplemental.pdf)
 
 <br><br>
 
