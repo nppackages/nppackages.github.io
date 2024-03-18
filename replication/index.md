@@ -22,7 +22,7 @@ _American Economic Review_, conditionally accepted.
 _Bernoulli_, forthcoming.
 
 - Cattaneo, Jansson and Ma (2024): [Local Regression Distribution Estimators](https://github.com/nppackages-replication/CJM_2024_JOE).<br>
-_Journal of Econometrics_, forthcoming.
+_Journal of Econometrics_ 240(2): 105074.
 
 - Calonico, Cattaneo and Farrell (2022): [Coverage Error Optimal Confidence Intervals for Local Polynomial Regression](https://github.com/nppackages-replication/CCF_2022_Bernoulli).<br>
 _Bernoulli_ 28(4): 2998-3022.
