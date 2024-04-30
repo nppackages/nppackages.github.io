@@ -15,11 +15,11 @@ Working paper.
 - Cattaneo, Chandak, Jansson and Ma (2022): [lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2022_lpcde).<br>
 Working paper.
 
-- Cattaneo, Crump, Farrell and Feng (2024): [On Binscatter](https://github.com/nppackages-replication/CCFF_2024_AER).<br>
-_American Economic Review_, conditionally accepted.
-
 - Cattaneo, Chandak, Jansson and Ma (2024): [Boundary Adaptive Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2024_Bernoulli).<br>
 _Bernoulli_, forthcoming.
+
+- Cattaneo, Crump, Farrell and Feng (2024): [On Binscatter](https://github.com/nppackages-replication/CCFF_2024_AER).<br>
+_American Economic Review_ 114(5): 1488-1514.
 
 - Cattaneo, Jansson and Ma (2024): [Local Regression Distribution Estimators](https://github.com/nppackages-replication/CJM_2024_JOE).<br>
 _Journal of Econometrics_ 240(2): 105074.
