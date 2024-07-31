@@ -16,7 +16,7 @@ Working paper.
 Working paper.
 
 - Cattaneo, Chandak, Jansson and Ma (2024): [Boundary Adaptive Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2024_Bernoulli).<br>
-_Bernoulli_, forthcoming.
+_Bernoulli_ 30(4): 3193-3223.
 
 - Cattaneo, Crump, Farrell and Feng (2024): [On Binscatter](https://github.com/nppackages-replication/CCFF_2024_AER).<br>
 _American Economic Review_ 114(5): 1488-1514.
