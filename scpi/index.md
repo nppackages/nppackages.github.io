@@ -52,7 +52,7 @@ pip install scpi_pkg
 ```
 
 ### How to link Stata and Python
-Stata (16.0 or newer) and Python (>=3.8) can be linked following the [official tutorial](https://blog.stata.com/2020/08/18/stata-python-integration-part-1-setting-up-stata-to-use-python/) on the Stata blog.
+Stata (16.0 or newer) and Python (>=3.12) can be linked following the [official tutorial](https://blog.stata.com/2020/08/18/stata-python-integration-part-1-setting-up-stata-to-use-python/) on the Stata blog.
 
 ### To install/update in Stata type:
 ```
