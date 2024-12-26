@@ -57,7 +57,7 @@ For source code and related files, visit [`binsreg` repository](https://github.c
 
 ### Software and Implementation
 
-- Cattaneo, Crump, Farrell and Feng (2024): [Binscatter Regressions](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2024_Stata.pdf).<br>
+- Cattaneo, Crump, Farrell and Feng (2025): [Binscatter Regressions](https://nppackages.github.io/references/Cattaneo-Crump-Farrell-Feng_2025_Stata.pdf).<br>
 _Stata Journal_, forthcoming.
 
 ### Technical and Methodological
