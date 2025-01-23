@@ -37,8 +37,6 @@ Replication files and illustration code are available in the [replication](https
 - [Ricardo Masini](https://anson.ucdavis.edu/~rmasini/), UC Davis.
 - [Filippo Palomba](https://filippopalomba.github.io/), Princeton University.
 - [Rocio Titiunik](https://scholar.princeton.edu/titiunik), Princeton University.
-- [Weining Wang](https://sites.google.com/site/weiningwanghu/home), University of York.
-- [Zhijiang (Tony) Ye](https://www.linkedin.com/in/tony-ye/), L.E.K. Consulting.
 
 <br><br>
 
