@@ -27,14 +27,15 @@ For source code and related files, visit [`lpcde` repository](https://github.com
 
 ### Software and Implementation
 
-- Cattaneo, Chandak, Jansson and Ma (2024): [lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators](https://nppackages.github.io/references/Cattaneo-Chandak-Jansson-Ma_2024_lpcde.pdf).<br>
-Working paper.
+- Cattaneo, Chandak, Jansson and Ma (2025): [lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators](https://mdcattaneo.github.io/papers/Cattaneo-Chandak-Jansson-Ma_2025_JOSS.pdf).<br>
+_Journal of Open Source Software_ 10(107): 7241
+[Companion arXiv version](https://mdcattaneo.github.io/papers/Cattaneo-Chandak-Jansson-Ma_2025_JOSS--arXiv.pdf)
 
 
 ### Technical and Methodological
 
 - Cattaneo, Chandak, Jansson and Ma (2024): [Boundary Adaptive Local Polynomial Conditional Density Estimators](https://nppackages.github.io/references/Cattaneo-Chandak-Jansson-Ma_2024_Bernoulli.pdf).<br>
-_Bernoulli_ 30(4): 3193-3223.<br>
+Bernoulli 30(4): 3193-3223.<br>
 [Supplemental appendix](https://nppackages.github.io/references/Cattaneo-Chandak-Jansson-Ma_2024_Bernoulli--Supplemental.pdf).
 
 
