@@ -12,8 +12,8 @@ Working paper.
 - Cattaneo, Feng, Palomba and Titiunik (2025): [Uncertainty Quantification in Synthetic Controls with Staggered Treatment Adoption](https://github.com/nppackages-replication/CFPT_2025_RESTAT).<br>
 _Review of Economics and Statistics_, revise and resubmit.
 
-- Cattaneo, Chandak, Jansson and Ma (2022): [lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2022_lpcde).<br>
-Working paper.
+- Cattaneo, Chandak, Jansson and Ma (2025): [lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2025_JOSS).<br>
+_Journal of Open Source Software_ 10(107): 7241.
 
 - Cattaneo, Chandak, Jansson and Ma (2024): [Boundary Adaptive Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2024_Bernoulli).<br>
 _Bernoulli_ 30(4): 3193-3223.
