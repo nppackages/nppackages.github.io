@@ -10,7 +10,7 @@ This work was supported in part by the National Science Foundation through grant
 Working paper.
 
 - Cattaneo, Feng, Palomba and Titiunik (2025): [Uncertainty Quantification in Synthetic Controls with Staggered Treatment Adoption](https://github.com/nppackages-replication/CFPT_2025_RESTAT).<br>
-_Review of Economics and Statistics_, revise and resubmit.
+_Review of Economics and Statistics_, forthcoming.
 
 - Cattaneo, Chandak, Jansson and Ma (2025): [lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2025_JOSS).<br>
 _Journal of Open Source Software_ 10(107): 7241.
