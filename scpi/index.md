@@ -77,7 +77,7 @@ For source code and related files, visit [`scpi` repository](https://github.com/
 ### Software and Implementation
 
 - Cattaneo, Feng, Palomba and Titiunik (2025): [scpi: Uncertainty Quantification for Synthetic Control Methods](https://nppackages.github.io/references/Cattaneo-Feng-Palomba-Titiunik_2025_JSS.pdf).<br>
-_Journal of Statistical Software_, forthcoming.
+_Journal of Statistical Software_ 113(1): 1-38.
 
 ### Technical and Methodological
 
