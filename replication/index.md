@@ -6,8 +6,8 @@ This work was supported in part by the National Science Foundation through grant
 
 ## Research Articles and Applications
 
-- Cattaneo, Crump, Farrell and Feng (2024): [Nonlinear Binscatter Methods](https://github.com/nppackages-replication/CCFF_2024_NonlinearBinscatter).<br>
-Working paper.
+- Cattaneo, Crump, Farrell and Feng (2025): [Nonlinear Binscatter Methods](https://github.com/nppackages-replication/CCFF_2025_RESTAT).<br>
+_Review of Economics and Statistics_, revise and resubmit.
 
 - Cattaneo, Feng, Palomba and Titiunik (2025): [Uncertainty Quantification in Synthetic Controls with Staggered Treatment Adoption](https://github.com/nppackages-replication/CFPT_2025_RESTAT).<br>
 _Review of Economics and Statistics_, forthcoming.
