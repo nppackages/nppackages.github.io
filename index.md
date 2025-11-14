@@ -23,15 +23,15 @@ Replication files and illustration code are available in the [replication](https
 ## Contributors
 
 - [Sebastian Calonico](https://sites.google.com/site/scalonico), UC Davis.
-- [Matias D. Cattaneo](https://cattaneo.princeton.edu), Princeton University.
+- [Matias D. Cattaneo](https://mdcattaneo.github.io), Princeton University.
 - [Rajita Chandak](https://rajitachandak.github.io), University of Wisconsin-Madison.
 - [Richard K. Crump](https://www.newyorkfed.org/research/economists/crump), Federal Reserve Bank of New York.
 - [Max H. Farrell](https://maxhfarrell.com/), UC Santa Barbara.
 - [Yingjie Feng](https://sites.google.com/site/yingjieum), Tsinghua University.
 - [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley.
 - [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
-- [Ricardo Masini](https://anson.ucdavis.edu/~rmasini/), UC Davis.
-- [Filippo Palomba](https://filippopalomba.github.io/), Princeton University.
-- [Rocio Titiunik](https://titiunik.github.io/), Princeton University.
+- [Ricardo Masini](https://anson.ucdavis.edu/~rmasini), UC Davis.
+- [Filippo Palomba](https://filippopalomba.github.io), Princeton University.
+- [Rocio Titiunik](https://titiunik.github.io), Princeton University.
 
 <br><br>
