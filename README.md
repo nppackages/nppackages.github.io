@@ -1,42 +1,74 @@
-# Nonparametric and Semiparametric Methods
+# NP Packages Website
 
-Software packages for nonparametric and semiparametric smoothing methods with application to causal inference, treatment effect and program evaluation estimation and inference. Replication files and illustration codes employing these packages are also available. 
-
-This work was supported in part by the National Science Foundation through grants [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931), [SES-1459967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967), [SES-1947662](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662), [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805), and [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432), and by the National Institutes of Health through grant [R01 GM072611-16](https://reporter.nih.gov/project-details/10093056).
-
-## Website
+This repository hosts the public website for NP Packages:
 
 https://nppackages.github.io
 
-## Software available in Python, R and/or Stata
+The site is a lean entry point for nonparametric and semiparametric software, references, replication links, contributors, and funding acknowledgments. Package documentation lives in the individual package repositories.
 
-- [binsreg](https://nppackages.github.io/binsreg): partition selection, point estimation, pointwise and uniform inference, and graphical procedures using binscatter methods.
-- [portsort](https://nppackages.github.io/portsort): estimation and inference using portfolio sorting methods.
-- [lspartition](https://nppackages.github.io/lspartition): estimation and inference using partitioning-based least squares methods, including B-splines, wavelet and piecewise polynomial regression estimators.
+## Packages
 
-- [nprobust](https://nppackages.github.io/nprobust): estimation and inference using kernel density and local polynomial regression methods.
-- [lpdensity](https://nppackages.github.io/lpdensity): estimation and inference using local polynomial distribution/density regression methods.
-- [lpcde](https://nppackages.github.io/lpcde): estimation and inference using local polynomial conditional distribution/density regression methods.
+- [binsreg](https://github.com/nppackages/binsreg): binscatter methods for partition selection, estimation, inference, and graphical procedures.
+- [portsort](https://github.com/nppackages/portsort): estimation and inference using portfolio sorting methods.
+- [lspartition](https://github.com/nppackages/lspartition): partitioning-based least squares methods, including B-splines, wavelets, and piecewise polynomial regression estimators.
+- [nprobust](https://github.com/nppackages/nprobust): kernel density and local polynomial regression methods.
+- [lpdensity](https://github.com/nppackages/lpdensity): local polynomial distribution and density regression methods.
+- [lpcde](https://github.com/nppackages/lpcde): local polynomial conditional distribution and density regression methods.
+- [scpi](https://github.com/nppackages/scpi): synthetic control methods for causal analysis.
 
-- [scpi](https://nppackages.github.io/scpi): estimation and inference using synthetic control methods.
+The legacy package URLs under this site, such as `/binsreg/`, are kept as redirect stubs to the corresponding GitHub repositories. Mirror-style aliases under `/nppackages/<package>/` are also generated as redirects.
 
-## Replication
+## Repository Structure
 
-Replication files and illustration code are available in the [replication](https://github.com/nppackages-replication) repository.
+- `_config.yml`: Jekyll and GitHub Pages settings.
+- `.editorconfig` and `.gitattributes`: editor and line-ending conventions.
+- `Gemfile`: local GitHub Pages/Jekyll dependencies.
+- `_includes/`: shared HTML fragments for metadata.
+- `_layouts/`: page templates.
+- `index.md`: homepage content.
+- `<package>/index.md`: package redirect stubs.
+- `nppackages/<package>/index.md`: mirror-style package redirect aliases.
+- `replication/index.md`: replication resources.
+- `references/`: PDF references linked from the website.
+- `public/`: CSS and static assets.
 
-## Contributors
+## Editing
 
-- [Sebastian Calonico](https://sites.google.com/site/scalonico), UC Davis.
-- [Matias D. Cattaneo](https://mdcattaneo.github.io), Princeton University.
-- [Rajita Chandak](https://rajitachandak.github.io), University of Wisconsin-Madison.
-- [Richard K. Crump](https://www.newyorkfed.org/research/economists/crump), Federal Reserve Bank of New York.
-- [Max H. Farrell](https://maxhfarrell.com/), UC Santa Barbara.
-- [Yingjie Feng](https://sites.google.com/site/yingjieum), Tsinghua University.
-- [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley.
-- [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
-- [Ricardo Masini](https://anson.ucdavis.edu/~rmasini), UC Davis.
-- [Filippo Palomba](https://filippopalomba.github.io), Princeton University.
-- [Rocio Titiunik](https://titiunik.github.io), Princeton University.
+Most content changes happen in Markdown files. Each rendered page needs YAML front matter at the top, for example:
 
-<br><br>
+```yaml
+---
+layout: page
+title: Page title
+permalink: /page-slug/
+---
+```
 
+Use relative internal links when possible, such as `/replication/` or `/references/file.pdf`, so the site remains portable across local previews and GitHub Pages.
+
+## Local Preview
+
+This is a Jekyll site. On a machine with Ruby and Bundler installed:
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+Then open:
+
+```text
+http://127.0.0.1:4000
+```
+
+This checkout includes a `Gemfile` and `Gemfile.lock` for GitHub Pages/Jekyll dependencies.
+
+Note: local Windows builds were tested with Ruby 3.3.10. Ruby 3.4 exposed compatibility issues in the pinned `github-pages`/Jekyll 3.10 stack, so use Ruby 3.3.x for local GitHub Pages previews until the dependency stack is upgraded.
+
+## Deployment
+
+The repository is intended for GitHub Pages at `nppackages.github.io`. The current source branch is `master`.
+
+## Queries and Requests
+
+Please email [nppackages@googlegroups.com](mailto:nppackages@googlegroups.com).

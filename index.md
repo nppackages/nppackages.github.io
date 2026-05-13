@@ -1,37 +1,223 @@
-# Nonparametric and Semiparametric Methods
+---
+layout: page
+title: Home
+permalink: /
+description: Software packages for nonparametric and semiparametric methods.
+---
 
-Software packages for nonparametric and semiparametric smoothing methods with application to causal inference, treatment effect and program evaluation estimation and inference. Replication files and illustration codes employing these packages are also available. 
+<section class="hero" aria-labelledby="intro">
+  <h1 id="intro">Nonparametric & Semiparametric Methods</h1>
+  <p class="lead">NP Packages collects maintained software for estimation, inference, and visualization using nonparametric and semiparametric methods with applications to program evaluation, treatment effect estimation, causal inference, and related problems.</p>
+</section>
 
-This work was supported in part by the National Science Foundation through grants [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931), [SES-1459967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967), [SES-1947662](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662), [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805), and [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432), and by the National Institutes of Health through grant [R01 GM072611-16](https://reporter.nih.gov/project-details/10093056).
+<section id="packages" class="section" aria-labelledby="packages-title">
+  <div class="section-header">
+    <h2 id="packages-title">Packages</h2>
+    <p>Package names link directly to GitHub. The old package pages on this site now redirect to those repositories so documentation does not drift.</p>
+  </div>
 
-## Software available in Python, R and/or Stata
+  <div class="package-grid">
+    <article class="package-card">
+      <div>
+        <div class="package-card-header">
+          <h3><a href="https://github.com/nppackages/binsreg">binsreg</a></h3>
+        </div>
+        <p>Binscatter methods for partition selection, point estimation, pointwise and uniform inference, and graphical procedures.</p>
+      </div>
+      <ul class="language-list" aria-label="Available languages">
+        <li>Python</li>
+        <li>R</li>
+        <li>Stata</li>
+      </ul>
+    </article>
 
-- [binsreg](https://nppackages.github.io/binsreg): partition selection, point estimation, pointwise and uniform inference, and graphical procedures using binscatter methods.
-- [portsort](https://nppackages.github.io/portsort): estimation and inference using portfolio sorting methods.
-- [lspartition](https://nppackages.github.io/lspartition): estimation and inference using partitioning-based least squares methods, including B-splines, wavelet and piecewise polynomial regression estimators.
+    <article class="package-card">
+      <div>
+        <div class="package-card-header">
+          <h3><a href="https://github.com/nppackages/portsort">portsort</a></h3>
+        </div>
+        <p>Estimation and inference using portfolio sorting methods.</p>
+      </div>
+      <ul class="language-list" aria-label="Available languages">
+        <li>Python</li>
+        <li>R</li>
+        <li>Stata</li>
+      </ul>
+    </article>
 
-- [nprobust](https://nppackages.github.io/nprobust): estimation and inference using kernel density and local polynomial regression methods.
-- [lpdensity](https://nppackages.github.io/lpdensity): estimation and inference using local polynomial distribution/density regression methods.
-- [lpcde](https://nppackages.github.io/lpcde): estimation and inference using local polynomial conditional distribution/density regression methods.
+    <article class="package-card">
+      <div>
+        <div class="package-card-header">
+          <h3><a href="https://github.com/nppackages/lspartition">lspartition</a></h3>
+        </div>
+        <p>Estimation and inference using partitioning-based least squares methods, B-splines, wavelets, and piecewise polynomials.</p>
+      </div>
+      <ul class="language-list" aria-label="Available languages">
+        <li>R</li>
+      </ul>
+    </article>
 
-- [scpi](https://nppackages.github.io/scpi): estimation and inference using synthetic control methods.
+    <article class="package-card">
+      <div>
+        <div class="package-card-header">
+          <h3><a href="https://github.com/nppackages/nprobust">nprobust</a></h3>
+        </div>
+        <p>Estimation and inference using kernel density and local polynomial regression methods.</p>
+      </div>
+      <ul class="language-list" aria-label="Available languages">
+        <li>R</li>
+        <li>Stata</li>
+      </ul>
+    </article>
 
-## Replication
+    <article class="package-card">
+      <div>
+        <div class="package-card-header">
+          <h3><a href="https://github.com/nppackages/lpdensity">lpdensity</a></h3>
+        </div>
+        <p>Estimation and inference using local polynomial distribution and density regression methods.</p>
+      </div>
+      <ul class="language-list" aria-label="Available languages">
+        <li>Python</li>
+        <li>R</li>
+        <li>Stata</li>
+      </ul>
+    </article>
 
-Replication files and illustration code are available in the [replication](https://nppackages.github.io/replication) page.
+    <article class="package-card">
+      <div>
+        <div class="package-card-header">
+          <h3><a href="https://github.com/nppackages/lpcde">lpcde</a></h3>
+        </div>
+        <p>Estimation and inference using local polynomial conditional distribution and density regression methods.</p>
+      </div>
+      <ul class="language-list" aria-label="Available languages">
+        <li>R</li>
+      </ul>
+    </article>
 
-## Contributors
+    <article class="package-card">
+      <div>
+        <div class="package-card-header">
+          <h3><a href="https://github.com/nppackages/scpi">scpi</a></h3>
+        </div>
+        <p>Estimation and inference using synthetic control methods for causal analysis.</p>
+      </div>
+      <ul class="language-list" aria-label="Available languages">
+        <li>Python</li>
+        <li>R</li>
+        <li>Stata</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-- [Sebastian Calonico](https://sites.google.com/site/scalonico), UC Davis.
-- [Matias D. Cattaneo](https://mdcattaneo.github.io), Princeton University.
-- [Rajita Chandak](https://rajitachandak.github.io), University of Wisconsin-Madison.
-- [Richard K. Crump](https://www.newyorkfed.org/research/economists/crump), Federal Reserve Bank of New York.
-- [Max H. Farrell](https://maxhfarrell.com/), UC Santa Barbara.
-- [Yingjie Feng](https://sites.google.com/site/yingjieum), Tsinghua University.
-- [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley.
-- [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
-- [Ricardo Masini](https://anson.ucdavis.edu/~rmasini), UC Davis.
-- [Filippo Palomba](https://filippopalomba.github.io), Princeton University.
-- [Rocio Titiunik](https://titiunik.github.io), Princeton University.
+<section id="replication" class="section" aria-labelledby="replication-title">
+  <div class="section-header">
+    <h2 id="replication-title">Replication Files</h2>
+    <p>Examples, paper replications, and companion code are collected on the <a href="{{ '/replication/' | relative_url }}">replication page</a>.</p>
+  </div>
+</section>
 
-<br><br>
+<section id="references" class="section" aria-labelledby="references-title">
+  <div class="section-header">
+    <h2 id="references-title">References</h2>
+    <p>Selected software articles and methodological references for NP methods and applications.</p>
+  </div>
+
+  <ol class="reference-list">
+    <li>
+      Cattaneo, Crump, Farrell and Feng (2025): <a href="{{ '/references/Cattaneo-Crump-Farrell-Feng_2025_Stata.pdf' | relative_url }}">Binscatter Regressions</a>.
+      <span><em>Stata Journal</em> 25(1): 3-50.</span>
+    </li>
+    <li>
+      Cattaneo, Crump, Farrell and Feng (2024): <a href="{{ '/references/Cattaneo-Crump-Farrell-Feng_2024_AER.pdf' | relative_url }}">On Binscatter</a>.
+      <span><em>American Economic Review</em> 114(5): 1488-1514.</span>
+    </li>
+    <li>
+      Cattaneo, Crump, Farrell and Feng (2025): <a href="{{ '/references/Cattaneo-Crump-Farrell-Feng_2025_RESTAT.pdf' | relative_url }}">Nonlinear Binscatter Methods</a>.
+      <span><em>Review of Economics and Statistics</em>, revise and resubmit.</span>
+    </li>
+    <li>
+      Cattaneo, Farrell and Feng (2020): <a href="{{ '/references/Cattaneo-Farrell-Feng_2020_R.pdf' | relative_url }}">lspartition: Partitioning-Based Least Squares Regression</a>.
+      <span><em>R Journal</em> 12(1): 172-187.</span>
+    </li>
+    <li>
+      Cattaneo, Farrell and Feng (2020): <a href="{{ '/references/Cattaneo-Farrell-Feng_2020_AoS.pdf' | relative_url }}">Large Sample Properties of Partitioning-Based Series Estimators</a>.
+      <span><em>Annals of Statistics</em> 48(3): 1718-1741.</span>
+    </li>
+    <li>
+      Cattaneo, Jansson and Ma (2022): <a href="{{ '/references/Cattaneo-Jansson-Ma_2022_JSS.pdf' | relative_url }}">lpdensity: Local Polynomial Density Estimation and Inference</a>.
+      <span><em>Journal of Statistical Software</em> 101(2): 1-25.</span>
+    </li>
+    <li>
+      Cattaneo, Jansson and Ma (2024): <a href="{{ '/references/Cattaneo-Jansson-Ma_2024_JoE.pdf' | relative_url }}">Local Regression Distribution Estimators</a>.
+      <span><em>Journal of Econometrics</em> 240(2): 105074.</span>
+    </li>
+    <li>
+      Cattaneo, Chandak, Jansson and Ma (2025): <a href="{{ '/references/Cattaneo-Chandak-Jansson-Ma_2025_JOSS.pdf' | relative_url }}">lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators</a>.
+      <span><em>Journal of Open Source Software</em> 10(107): 7241.</span>
+    </li>
+    <li>
+      Cattaneo, Chandak, Jansson and Ma (2024): <a href="{{ '/references/Cattaneo-Chandak-Jansson-Ma_2024_Bernoulli.pdf' | relative_url }}">Boundary Adaptive Local Polynomial Conditional Density Estimators</a>.
+      <span><em>Bernoulli</em> 30(4): 3193-3223.</span>
+    </li>
+    <li>
+      Calonico, Cattaneo and Farrell (2019): <a href="{{ '/references/Calonico-Cattaneo-Farrell_2019_JSS.pdf' | relative_url }}">nprobust: Nonparametric Kernel-Based Estimation and Robust Bias-Corrected Inference</a>.
+      <span><em>Journal of Statistical Software</em> 91(8): 1-33.</span>
+    </li>
+    <li>
+      Calonico, Cattaneo and Farrell (2018): <a href="{{ '/references/Calonico-Cattaneo-Farrell_2018_JASA.pdf' | relative_url }}">On the Effect of Bias Estimation on Coverage Accuracy in Nonparametric Inference</a>.
+      <span><em>Journal of the American Statistical Association</em> 113(522): 767-779.</span>
+    </li>
+    <li>
+      Cattaneo, Feng, Palomba and Titiunik (2025): <a href="{{ '/references/Cattaneo-Feng-Palomba-Titiunik_2025_JSS.pdf' | relative_url }}">scpi: Uncertainty Quantification for Synthetic Control Methods</a>.
+      <span><em>Journal of Statistical Software</em> 113(1): 1-38.</span>
+    </li>
+    <li>
+      Cattaneo, Feng, Palomba and Titiunik (2025): <a href="{{ '/references/Cattaneo-Feng-Palomba-Titiunik_2025_RESTAT.pdf' | relative_url }}">Uncertainty Quantification in Synthetic Controls with Staggered Treatment Adoption</a>.
+      <span><em>Review of Economics and Statistics</em>, forthcoming.</span>
+    </li>
+  </ol>
+</section>
+
+<section id="contributors" class="section" aria-labelledby="contributors-title">
+  <div class="section-header">
+    <h2 id="contributors-title">Contributors</h2>
+    <p>Researchers and developers contributing to the NP Packages software family.</p>
+  </div>
+
+  <ul class="people-list">
+    <li><a href="https://sites.google.com/site/scalonico">Sebastian Calonico</a>UC Davis</li>
+    <li><a href="https://mdcattaneo.github.io/">Matias D. Cattaneo</a>Princeton University</li>
+    <li><a href="https://rajitachandak.github.io">Rajita Chandak</a>University of Wisconsin-Madison</li>
+    <li><a href="https://richardcrump.github.io/">Richard K. Crump</a>Federal Reserve Bank of New York</li>
+    <li><a href="https://maxhfarrell.com">Max H. Farrell</a>UC Santa Barbara</li>
+    <li><a href="https://sites.google.com/site/yingjieum">Yingjie Feng</a>Tsinghua University</li>
+    <li><a href="http://www.econ.berkeley.edu/~mjansson/index.html">Michael Jansson</a>UC Berkeley</li>
+    <li><a href="https://sites.google.com/view/xinweima">Xinwei Ma</a>UC San Diego</li>
+    <li><a href="https://anson.ucdavis.edu/~rmasini">Ricardo Masini</a>UC Davis</li>
+    <li><a href="https://filippopalomba.github.io">Filippo Palomba</a>Princeton University</li>
+    <li><a href="https://titiunik.github.io">Rocio Titiunik</a>Princeton University</li>
+  </ul>
+</section>
+
+<section id="funding" class="section" aria-labelledby="funding-title">
+  <div class="section-header">
+    <h2 id="funding-title">Funding</h2>
+    <p>This work was supported in part by the National Science Foundation, the National Institutes of Health, and the National Institute for Food and Agriculture.</p>
+  </div>
+
+  <ul class="funding-list" aria-label="Funding grants">
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931">NSF SES-1459931</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967">NSF SES-1459967</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662">NSF SES-1947662</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805">NSF SES-1947805</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432">NSF SES-2019432</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2210561">NSF DMS-2210561</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241575">NSF SES-2241575</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342226">NSF SES-2342226</a></li>
+    <li><a href="https://reporter.nih.gov/project-details/10093056">NIH R01 GM072611-16</a></li>
+    <li><a href="https://www.nifa.usda.gov/data">NIFA 2024-67023-42704</a></li>
+  </ul>
+</section>

@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: nprobust
-permalink: /nprobust/
+title: nppackages/nprobust
+permalink: /nppackages/nprobust/
 redirect_to: https://github.com/nppackages/nprobust
 sitemap: false
 description: Redirect to the nprobust GitHub repository.

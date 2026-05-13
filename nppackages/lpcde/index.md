@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: lpcde
-permalink: /lpcde/
+title: nppackages/lpcde
+permalink: /nppackages/lpcde/
 redirect_to: https://github.com/nppackages/lpcde
 sitemap: false
 description: Redirect to the lpcde GitHub repository.

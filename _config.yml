@@ -1,22 +1,46 @@
-# Setup
-title       : NP Packages
-tagline     : 'NP Software Packages'
-description : 'Nonparametric Software Packages'
-keywords    : "nonparametric, semiparametric, smoothing, R, Stata"
-url         : https://nppackages.github.io
-baseurl     : ''
-paginate    : 5
+title: NP Packages
+tagline: NP Software Packages
+description: Software packages for nonparametric and semiparametric methods.
+keywords: nonparametric, semiparametric, smoothing, Python, R, Stata
+url: https://nppackages.github.io
+baseurl: ""
+repository: nppackages/nppackages.github.io
+lang: en-US
+timezone: America/New_York
 
-
-# About and contact
 author:
-  name:           
-  url:            
+  name: NP Packages
+  email: nppackages@googlegroups.com
+  url: https://nppackages.github.io
 
-# Gems
-plugins:
-  - jekyll-paginate
-  - jekyll-gist
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 
-# Custom vars
-version:          3.0.0
+strict_front_matter: true
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
+exclude:
+  - README.md
+  - AGENTS.md
+  - LICENSE.md
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+  - .bundle
+  - .jekyll-cache
+  - .jekyll-metadata
+  - .jekyll-preview.*
+  - .tmp
+  - _site
+  - vendor
+  - "*.log"
+
+version: 3.1.0

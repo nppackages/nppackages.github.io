@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: scpi
-permalink: /scpi/
+title: nppackages/scpi
+permalink: /nppackages/scpi/
 redirect_to: https://github.com/nppackages/scpi
 sitemap: false
 description: Redirect to the scpi GitHub repository.

@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: binsreg
-permalink: /binsreg/
+title: nppackages/binsreg
+permalink: /nppackages/binsreg/
 redirect_to: https://github.com/nppackages/binsreg
 sitemap: false
 description: Redirect to the binsreg GitHub repository.

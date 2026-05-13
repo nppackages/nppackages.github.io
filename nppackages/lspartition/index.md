@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: lspartition
-permalink: /lspartition/
+title: nppackages/lspartition
+permalink: /nppackages/lspartition/
 redirect_to: https://github.com/nppackages/lspartition
 sitemap: false
 description: Redirect to the lspartition GitHub repository.

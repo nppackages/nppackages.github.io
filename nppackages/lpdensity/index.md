@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: lpdensity
-permalink: /lpdensity/
+title: nppackages/lpdensity
+permalink: /nppackages/lpdensity/
 redirect_to: https://github.com/nppackages/lpdensity
 sitemap: false
 description: Redirect to the lpdensity GitHub repository.

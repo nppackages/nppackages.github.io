@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: portsort
-permalink: /portsort/
+title: nppackages/portsort
+permalink: /nppackages/portsort/
 redirect_to: https://github.com/nppackages/portsort
 sitemap: false
 description: Redirect to the portsort GitHub repository.
