@@ -183,7 +183,6 @@ description: Software packages for nonparametric and semiparametric methods.
 <section id="contributors" class="section" aria-labelledby="contributors-title">
   <div class="section-header">
     <h2 id="contributors-title">Contributors</h2>
-    <p>Researchers and developers contributing to the NP Packages software family.</p>
   </div>
 
   <ul class="people-list">
