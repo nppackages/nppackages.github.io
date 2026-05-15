@@ -126,56 +126,28 @@ description: Software packages for nonparametric and semiparametric methods.
 
   <ol class="reference-list">
     <li>
-      Cattaneo, Crump, Farrell and Feng (2025): <a href="{{ '/references/Cattaneo-Crump-Farrell-Feng_2025_Stata.pdf' | relative_url }}">Binscatter Regressions</a>.
-      <span><em>Stata Journal</em> 25(1): 3-50.</span>
-    </li>
-    <li>
-      Cattaneo, Crump, Farrell and Feng (2024): <a href="{{ '/references/Cattaneo-Crump-Farrell-Feng_2024_AER.pdf' | relative_url }}">On Binscatter</a>.
-      <span><em>American Economic Review</em> 114(5): 1488-1514.</span>
-    </li>
-    <li>
-      Cattaneo, Crump, Farrell and Feng (2025): <a href="{{ '/references/Cattaneo-Crump-Farrell-Feng_2025_RESTAT.pdf' | relative_url }}">Nonlinear Binscatter Methods</a>.
-      <span><em>Review of Economics and Statistics</em>, revise and resubmit.</span>
+      Calonico, Cattaneo and Farrell (2019): <a href="{{ '/references/Calonico-Cattaneo-Farrell_2019_JSS.pdf' | relative_url }}">nprobust: Nonparametric Kernel-Based Estimation and Robust Bias-Corrected Inference</a>.
+      <span><em>Journal of Statistical Software</em> 91(8): 1-33.</span>
     </li>
     <li>
       Cattaneo, Farrell and Feng (2020): <a href="{{ '/references/Cattaneo-Farrell-Feng_2020_R.pdf' | relative_url }}">lspartition: Partitioning-Based Least Squares Regression</a>.
       <span><em>R Journal</em> 12(1): 172-187.</span>
     </li>
     <li>
-      Cattaneo, Farrell and Feng (2020): <a href="{{ '/references/Cattaneo-Farrell-Feng_2020_AoS.pdf' | relative_url }}">Large Sample Properties of Partitioning-Based Series Estimators</a>.
-      <span><em>Annals of Statistics</em> 48(3): 1718-1741.</span>
-    </li>
-    <li>
       Cattaneo, Jansson and Ma (2022): <a href="{{ '/references/Cattaneo-Jansson-Ma_2022_JSS.pdf' | relative_url }}">lpdensity: Local Polynomial Density Estimation and Inference</a>.
       <span><em>Journal of Statistical Software</em> 101(2): 1-25.</span>
-    </li>
-    <li>
-      Cattaneo, Jansson and Ma (2024): <a href="{{ '/references/Cattaneo-Jansson-Ma_2024_JoE.pdf' | relative_url }}">Local Regression Distribution Estimators</a>.
-      <span><em>Journal of Econometrics</em> 240(2): 105074.</span>
     </li>
     <li>
       Cattaneo, Chandak, Jansson and Ma (2025): <a href="{{ '/references/Cattaneo-Chandak-Jansson-Ma_2025_JOSS.pdf' | relative_url }}">lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators</a>.
       <span><em>Journal of Open Source Software</em> 10(107): 7241.</span>
     </li>
     <li>
-      Cattaneo, Chandak, Jansson and Ma (2024): <a href="{{ '/references/Cattaneo-Chandak-Jansson-Ma_2024_Bernoulli.pdf' | relative_url }}">Boundary Adaptive Local Polynomial Conditional Density Estimators</a>.
-      <span><em>Bernoulli</em> 30(4): 3193-3223.</span>
-    </li>
-    <li>
-      Calonico, Cattaneo and Farrell (2019): <a href="{{ '/references/Calonico-Cattaneo-Farrell_2019_JSS.pdf' | relative_url }}">nprobust: Nonparametric Kernel-Based Estimation and Robust Bias-Corrected Inference</a>.
-      <span><em>Journal of Statistical Software</em> 91(8): 1-33.</span>
-    </li>
-    <li>
-      Calonico, Cattaneo and Farrell (2018): <a href="{{ '/references/Calonico-Cattaneo-Farrell_2018_JASA.pdf' | relative_url }}">On the Effect of Bias Estimation on Coverage Accuracy in Nonparametric Inference</a>.
-      <span><em>Journal of the American Statistical Association</em> 113(522): 767-779.</span>
+      Cattaneo, Crump, Farrell and Feng (2025): <a href="{{ '/references/Cattaneo-Crump-Farrell-Feng_2025_Stata.pdf' | relative_url }}">Binscatter Regressions</a>.
+      <span><em>Stata Journal</em> 25(1): 3-50.</span>
     </li>
     <li>
       Cattaneo, Feng, Palomba and Titiunik (2025): <a href="{{ '/references/Cattaneo-Feng-Palomba-Titiunik_2025_JSS.pdf' | relative_url }}">scpi: Uncertainty Quantification for Synthetic Control Methods</a>.
       <span><em>Journal of Statistical Software</em> 113(1): 1-38.</span>
-    </li>
-    <li>
-      Cattaneo, Feng, Palomba and Titiunik (2025): <a href="{{ '/references/Cattaneo-Feng-Palomba-Titiunik_2025_RESTAT.pdf' | relative_url }}">Uncertainty Quantification in Synthetic Controls with Staggered Treatment Adoption</a>.
-      <span><em>Review of Economics and Statistics</em>, forthcoming.</span>
     </li>
   </ol>
 </section>
