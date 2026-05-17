@@ -64,6 +64,7 @@ description: Software packages for nonparametric and semiparametric methods.
         <p>Estimation and inference using kernel density and local polynomial regression methods.</p>
       </div>
       <ul class="language-list" aria-label="Available languages">
+        <li>Python</li>
         <li>R</li>
         <li>Stata</li>
       </ul>
