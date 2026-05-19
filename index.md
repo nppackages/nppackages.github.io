@@ -38,9 +38,7 @@ description: Software packages for nonparametric and semiparametric methods.
         <p>Estimation and inference using portfolio sorting methods.</p>
       </div>
       <ul class="language-list" aria-label="Available languages">
-        <li>Python</li>
-        <li>R</li>
-        <li>Stata</li>
+        <li>Coming soon...</li>
       </ul>
     </article>
 
