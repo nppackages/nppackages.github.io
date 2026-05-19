@@ -46,5 +46,3 @@ _Journal of Statistical Software_ 91(8): 1-33.
 
 - Calonico, Cattaneo and Farrell (2018): [On the Effect of Bias Estimation on Coverage Accuracy in Nonparametric Inference](https://github.com/nppackages-replication/CCF_2018_JASA).<br>
 _Journal of the American Statistical Association_ 113(522): 767-779.
-
-<br><br>

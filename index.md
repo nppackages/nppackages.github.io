@@ -115,7 +115,7 @@ description: Software packages for nonparametric and semiparametric methods.
 <section id="replication" class="section" aria-labelledby="replication-title">
   <div class="section-header">
     <h2 id="replication-title">Replication Files</h2>
-    <p>Examples, paper replications, and companion code are collected on the <a href="{{ '/replication/' | relative_url }}">replication page</a>.</p>
+    <p>Examples, paper replications, and companion code are collected on the <a class="replication-card-link" href="{{ '/replication/' | relative_url }}">replication page</a>.</p>
   </div>
 </section>
 
@@ -162,10 +162,10 @@ description: Software packages for nonparametric and semiparametric methods.
     <li><a href="https://sites.google.com/site/scalonico">Sebastian Calonico</a>UC Davis</li>
     <li><a href="https://mdcattaneo.github.io/">Matias D. Cattaneo</a>Princeton University</li>
     <li><a href="https://rajitachandak.github.io">Rajita Chandak</a>University of Wisconsin-Madison</li>
-    <li><a href="https://richardcrump.github.io/">Richard K. Crump</a>Federal Reserve Bank of New York</li>
+    <li><a href="https://www.newyorkfed.org/research/economists/crump/">Richard K. Crump</a>Federal Reserve Bank of New York</li>
     <li><a href="https://maxhfarrell.com">Max H. Farrell</a>UC Santa Barbara</li>
     <li><a href="https://sites.google.com/site/yingjieum">Yingjie Feng</a>Tsinghua University</li>
-    <li><a href="http://www.econ.berkeley.edu/~mjansson/index.html">Michael Jansson</a>UC Berkeley</li>
+    <li><a href="https://econ.berkeley.edu/profile/michael-jansson">Michael Jansson</a>UC Berkeley</li>
     <li><a href="https://sites.google.com/view/xinweima">Xinwei Ma</a>UC San Diego</li>
     <li><a href="https://anson.ucdavis.edu/~rmasini">Ricardo Masini</a>UC Davis</li>
     <li><a href="https://filippopalomba.github.io">Filippo Palomba</a>Princeton University</li>
