@@ -90,7 +90,9 @@ description: Software packages for nonparametric and semiparametric methods.
         <p>Estimation and inference using local polynomial conditional distribution and density regression methods.</p>
       </div>
       <ul class="language-list" aria-label="Available languages">
+        <li>Python</li>
         <li>R</li>
+        <li>Stata</li>
       </ul>
     </article>
 
