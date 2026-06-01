@@ -11,10 +11,10 @@ Replication files and illustration code using NP Packages.
 
 ## Research Articles and Applications
 
-- Cattaneo, Crump, Farrell and Feng (2025): [Nonlinear Binscatter Methods](https://github.com/nppackages-replication/CCFF_2025_RESTAT).<br>
+- Cattaneo, Crump, Farrell and Feng (2026): [Nonlinear Binscatter Methods](https://github.com/nppackages-replication/CCFF_2025_RESTAT).<br>
 _Review of Economics and Statistics_, revise and resubmit.
 
-- Cattaneo, Feng, Palomba and Titiunik (2025): [Uncertainty Quantification in Synthetic Controls with Staggered Treatment Adoption](https://github.com/nppackages-replication/CFPT_2025_RESTAT).<br>
+- Cattaneo, Feng, Palomba and Titiunik (2027): [Uncertainty Quantification in Synthetic Controls with Staggered Treatment Adoption](https://github.com/nppackages-replication/CFPT_2027_RESTAT).<br>
 _Review of Economics and Statistics_, forthcoming.
 
 - Cattaneo, Chandak, Jansson and Ma (2025): [lpcde: Estimation and Inference for Local Polynomial Conditional Density Estimators](https://github.com/nppackages-replication/CCJM_2025_JOSS).<br>
